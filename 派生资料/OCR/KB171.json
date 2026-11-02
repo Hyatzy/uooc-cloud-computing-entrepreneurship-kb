@@ -1,0 +1,57 @@
+{
+  "document_id": "KB171",
+  "source_sha256": "41d1b9e13e57c7313a23d35c0743ab95afbb302d349375f173404d45336c8f34",
+  "pages": [
+    {
+      "confidence": 0.45000000298023224,
+      "lines": [
+        {
+          "bbox": [
+            0.33866278766660096,
+            0.5096899221112523,
+            0.3415697733561198,
+            0.0639534891387562
+          ],
+          "confidence": 0.5,
+          "text": "为商业决策赋能"
+        },
+        {
+          "bbox": [
+            0.3400588502032592,
+            0.47695197726177685,
+            0.33877207438151047,
+            0.025046453358214538
+          ],
+          "confidence": 0.5,
+          "text": "EMPOWER BUSINESS DECISIONS"
+        },
+        {
+          "bbox": [
+            0.43310913596763206,
+            0.34086207054306705,
+            0.1352352142333984,
+            0.03339213971738464
+          ],
+          "confidence": 0.30000001192092896,
+          "text": "Research"
+        },
+        {
+          "bbox": [
+            0.026162789308710688,
+            0.029012345133851647,
+            0.6656976770471643,
+            0.021604938271604923
+          ],
+          "confidence": 0.5,
+          "text": "（C）1994-2019 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+        }
+      ],
+      "method": "macos_vision",
+      "page": 61,
+      "text": "为商业决策赋能\nEMPOWER BUSINESS DECISIONS\nResearch\n（C）1994-2019 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net",
+      "warnings": [
+        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
+      ]
+    }
+  ]
+}

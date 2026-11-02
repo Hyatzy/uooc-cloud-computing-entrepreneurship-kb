@@ -1,0 +1,154 @@
+# 阿里巴巴在线应用的Serverless架构演进.pdf
+
+- 文档 ID：KB103
+- 来源：http://src.source5.uooconline.com/course1314/document/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9C%A8%E7%BA%BF%E5%BA%94%E7%94%A8%E7%9A%84Serverless%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B.pdf
+- 章：第2章 云计算创业项目选择和市场分析
+- 章节：第3节 云计算创业方向如何选择
+- 分类：课件文档
+- 说明：原 PDF 为 205.21 MB 的 20 页云栖大会演讲幻灯片且内置字体编码缺失，已逐页通过视觉与高精度 OCR 完整还原为 Markdown。
+
+## 第 1 页
+
+阿里巴巴集团 · 云栖大会（APSARA CONFERENCE）
+阿里巴巴在线应用的 Serverless 架构演进
+许晓斌（阿里云智能高级技术专家）
+
+## 第 2 页
+
+Contents 目录
+1. 阿里巴巴在线应用的特点
+2. 业界 Serverless 的发展现状
+3. 应用极速启动技术
+
+## 第 3 页
+
+1 阿里巴巴在线应用的特点
+
+## 第 4 页
+
+在线业务对响应时间敏感
+- 一次用户请求产生 80+ 次分布式调用（含调用 TAIR、同区域/单元内 HSF、TDDL 等分布式调用链路）
+- 网站的响应时间直接影响转化率：
+  - 2.4 seconds：1.9% conversion rate
+  - 3.3 seconds：1.5% conversion rate
+  - 4.2 seconds：<1% conversion rate
+  - 5.7+ seconds：<0.6% conversion rate
+
+## 第 5 页
+
+应用启动时间长
+- 应用 A：优化前 1000 s → 优化后 350 s
+  - 启动耗时环节：Tomcat、Diamond、JDK、HSF、TMF、其他（TDDL, Pandora）
+- 复用优化手段
+- 应用 B：优化前 600 s → 优化后 350 s（Bean 加载等启动占用时间与优化节省时间对比）
+
+## 第 6 页
+
+语言的分布
+- 阿里巴巴：Java 是绝对主流（JAVA、其他）
+- AWS Lambda：NodeJS 是主流，Java 占比不到 5%（NodeJS、Python、Java、Go、其它）
+- 数据来源：https://serverless.com/blog/serverless-by-the-numbers-2018-data-report/
+
+## 第 7 页
+
+2 业界 Serverless 的发展现状
+
+## 第 8 页
+
+Serverless 行业发展回顾
+- 2018年7月，Google 发布了 Knative。Knative 是一个基于 Kubernetes 的开源 Serverless 框架，具备构建容器、流量调配、弹性伸缩、零实例、函数事件等能力。Knative 背后主要有 Google, Redhat, Pivotal 和 IBM 等公司参与。值得留意的是，Knative 的社区发展非常迅速，截止到 2019年4月，已经有超过50家公司参与，超过400贡献者。
+- 2018年12月，AWS 发布了 Firecracker。Firecracker 是一个开源的虚拟化技术，面向基于函数的服务，创建和管控安全的、多租户的容器。Firecracker 的目标是把传统虚拟机安全性和隔离型，和容器的诉求和资源效率结合起来。类似的产品还有 Kata Container 和 gVisor。
+- 2019年1月，InfoQ 发布架构和设计趋势报告。报告指出，「虽然当前 serverless 这个词可能还比较模糊，但是它驱动了行业更多地关注事件驱动的系统设计，以及更多地自动化底层操作系统的关注点。」
+- 2019年2月，Jonas Bonér（Akka的创始人）指出，目前 serverless 的编程模型还是限制在无状态的函数上，即 FaaS，这限制了 serverless 能支持的用例：https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/。
+- 2019年2月，UC Berkeley 发布了 Serverless Computing 报告。报告阐述了 Serverless Computing 的动力，分析了当前 Serverless 技术的优劣，以及这一领域目前遇到的问题和机会。
+- 2019年3月，Red Hat 发布了 Quarkus。Quarkus 是一个开源的，Kubernetes 原生的 Java 框架，适配 GraalVM 和 OpenJDK HotSpot。较之于传统的 Java 应用，使用 Quarkus 编写的 Java 应用程序在启动时间和内存消耗上有较大的改进。
+- 2019年3月，Mozilla 宣布了 WASI，WebAssembly 的系统接口。WASI 的目标是让 WebAssembly 代码运行在所有设备上、机器和操作系统上。WebAssembly 原来主要是为 web 客户端设计的，而现在 Mozilla 想将其扩展到其他地方，例如数据中心的服务端和 IoT 设备。
+- 2019年3月，Pivotal 发布了 Spring Cloud Function 2.1.0.M1。Spring Cloud Function 是一层对于 Serverless 平台的抽象，基于 Spring Boot，推崇面向函数的编程模型。Spring Cloud Function 目前支持 AWS Lambda，微软 Azure 和 Apache OpenWhisk。
+- 2019年4月，Google 发布了 Cloud Run。Google Cloud 是一个托管式的计算平台，用户可以部署无状态的容器，容器可以接受 http 请求，按实际请求次数收费。Cloud Run 能够管理好基础设施，包括自动弹性和缩容到零实例。Cloud Run 基于开源 Knative 标准构建，用户的容器运行在安全容器 Gvisor 中。
+- 2019年5月，Oracle 发布 GraalVM 19.0。GraalVM 是一个通用的应用虚拟机，除了支持 JVM 语言外，还支持 JS, Python, Ruby, R 等其他语言，它可以通过 AOT 技术将应用编译成本地镜像，以提升启动时间、降低内存消耗。
+- 2019年5月，Spring 核心开发 Juergen Hoeller 分享了 Spring 5.2 & 5.3 的 Roadmap。其中包含了 Spring 5.2 的启动时间优化，以及 Spring 5.3 对 GraalVM Native Images 的兼容。
+
+## 第 9 页
+
+Serverless 技术的分层
+- Runtime & Framework：GraalVM / Spring Cloud Function
+- DevOps：Knative
+- Resource：Firecracker
+
+## 第 10 页
+
+Serverless 行业发展特点
+- FaaS：FaaS 还是 Serverless 的主流形式，但是限制非常多
+- 开源：以 Knative 为首的 Serverless 开源组件得到了社区支持
+- Java：Java 还不是 Serverless 的一等公民；GraalVM 正致力于降低 Java 应用冷启动速度
+- 安全：传统容器技术不足以满足安全要求；轻量级安全沙箱技术发展迅速
+
+## 第 11 页
+
+Serverless 挑战对比
+
+| 维度 | Java 支持 | 应用启动时间 | 安全隔离要求 | FaaS | 应用大小 |
+|---|---|---|---|---|---|
+| 业界 | 二等公民 | 不解决 | 高 | 主流 | 小/中 |
+| 阿里巴巴内部 | 核心 | 必须解决 | 中 | 非主流 | 大/巨大 |
+
+## 第 12 页
+
+3 应用极速启动技术
+
+## 第 13 页
+
+Serverless vs Book 模式
+- 计算资源与时间关系：
+  - Book模式：保有时间 1 day
+  - Serverless模式：保有时间 1 minute
+- 示例：
+  - 应用A = A1 + B2 = 180（其中 A1=80，A2=40）
+  - 应用B = A2 + B1 = 110（其中 B1=70，B2=100）
+- 峰值计算公式：
+  - $All_t = A_t + B_t + C_t + \dots + N_t$
+  - $Peak(A) = \max(A_1, A_2, A_3, \dots, A_t)$
+  - $Serverless = \max(All_1, All_2, All_3, \dots, All_t)$
+  - $Book = Peak(A) + Peak(B) + \dots + Peak(N)$
+
+## 第 14 页
+
+Serverless 核心挑战
+如何保证在需要的时候在极短的时间（毫秒级）内分配好资源、启动应用、保证服务可用
+
+## 第 15 页
+
+多级弹性能力（弹性幅度 5x / 10x / 50x / 250x 与弹性时间 10ms / 10s / 10min）
+- L1 弹性：速度最快的弹性方式，通常成本更高，例如在物理机上垂直弹性，10ms 内完成，在物理机快速创建出一个计算单元
+- L2 弹性：速度仅次于L1，采用磁盘快照方式，在 10秒 内完成，可以完成水平弹性能力
+- L3 弹性：完全的冷启动，预计需要 10分钟到30分钟
+
+## 第 16 页
+
+1:1 vs 1:N（源码 → 镜像（10min - 30min） → 快照 → 运行时（5s - 10s））
+- 1:N：成本低，通用型差（单份快照对应多个运行时）
+- 1:1：成本高，通用型好（每份快照对应单个运行时）
+
+## 第 17 页
+
+快照技术关注点
+- 使用低成本的存储换取应用启动速度，技术的资源瓶颈变成了 I/O
+- 应用的 Stateless 非常关键，可以使用 1:N 方案，成本更低
+
+## 第 18 页
+
+整体架构
+- 核心组件链路：CD System → Control Plane / CSE Fn（FaaS 能力） → Load Balancer / Activator / Scaler / CSE Core（弹性能力） → Zizz CRD / LR CRD / ForkR CRD（极速启动能力） → Kubernetes
+- 1. 在和内部的各种中间件（如负载均衡）和持续交付系统的前提下
+- 2. 沉淀的能力都尽量靠齐社区标准（如 Kubernetes CRD，Knative 架构）
+
+## 第 19 页
+
+落地情况
+- Application 50+：传统应用，无须改动代码
+- Function 500+：FaaS类场景，开发效率提升
+- BU 10+：丰富的场景覆盖
+
+## 第 20 页
+
+THANK YOU!

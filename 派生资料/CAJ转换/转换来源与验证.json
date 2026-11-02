@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-25",
+  "course": "云计算行业与创新创业对接范式",
+  "upstream_url": "https://github.com/caj2pdf/caj2pdf",
+  "upstream_commit": "6c4bc32b15ce748d211f45d536f5d5511ef9f368",
+  "new_python_packages": [],
+  "notes": [
+    "No decryption performed; only CAJ/HN format paths invoked.",
+    "HN PDFs contain page images; search/use the paired TXT.",
+    "Physical page numbers are not necessarily printed thesis page numbers.",
+    "Native text errors, duplicate overprinted headings and imperfect formula extraction are preserved; verify cited passages visually."
+  ],
+  "documents": [
+    {
+      "id": "KB062",
+      "title": "SaaS商业模式创新评估研究 马文婷.pdf",
+      "source_url": "http://src.source5.uooconline.com/course1314/document/SaaS%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E8%AF%84%E4%BC%B0%E7%A0%94%E7%A9%B6%20%E9%A9%AC%E6%96%87%E5%A9%B7.pdf",
+      "original_path": "原始资料/KB062__SaaS商业模式创新评估研究 马文婷.pdf",
+      "original_sha256": "e7ac959d10192212349e149fa84c01a7b115dac002344501cb30e8632a541162",
+      "original_unchanged": true,
+      "actual_format": "CAJ",
+      "page_count": 61,
+      "rendered_all_pages": true,
+      "pdf_path": "派生资料/CAJ转换/KB062__SaaS商业模式创新评估研究 马文婷.converted.pdf",
+      "text_path": "派生资料/CAJ转换/KB062__SaaS商业模式创新评估研究 马文婷.txt",
+      "pages_metadata_path": "派生资料/CAJ转换/KB062__SaaS商业模式创新评估研究 马文婷.pages.json",
+      "text_characters": 56535,
+      "placeholder_count": 0,
+      "empty_text_pages": [],
+      "pdf_text_layer": true,
+      "method": "caj2pdf object reconstruction + existing PyMuPDF repair/bookmarks",
+      "visual_spot_checks": [
+        13
+      ]
+    },
+    {
+      "id": "KB067",
+      "title": "云计算行业L公司商业模式研究_张雯慧.pdf",
+      "source_url": "http://src.source5.uooconline.com/course1314/document/%E4%BA%91%E8%AE%A1%E7%AE%97%E8%A1%8C%E4%B8%9AL%E5%85%AC%E5%8F%B8%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%A0%94%E7%A9%B6_%E5%BC%A0%E9%9B%AF%E6%85%A7.pdf",
+      "original_path": "原始资料/KB067__云计算行业L公司商业模式研究_张雯慧.pdf",
+      "original_sha256": "6d6fb0f456ba887c551e6866eb8a0f47e8d918359585f403a204554a900a9abf",
+      "original_unchanged": true,
+      "actual_format": "HN",
+      "page_count": 49,
+      "rendered_all_pages": true,
+      "pdf_path": "派生资料/CAJ转换/KB067__云计算行业L公司商业模式研究_张雯慧.converted.pdf",
+      "text_path": "派生资料/CAJ转换/KB067__云计算行业L公司商业模式研究_张雯慧.txt",
+      "pages_metadata_path": "派生资料/CAJ转换/KB067__云计算行业L公司商业模式研究_张雯慧.pages.json",
+      "text_characters": 44467,
+      "placeholder_count": 0,
+      "empty_text_pages": [],
+      "pdf_text_layer": false,
+      "method": "caj2pdf image reconstruction; separate unchanged HN embedded-text extraction",
+      "visual_spot_checks": [
+        13,
+        2
+      ]
+    },
+    {
+      "id": "KB069",
+      "title": "基于多服务器系统配置策略的云计算利润模型研究 刘锡洋.pdf",
+      "source_url": "http://src.source5.uooconline.com/course1314/document/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E7%AD%96%E7%95%A5%E7%9A%84%E4%BA%91%E8%AE%A1%E7%AE%97%E5%88%A9%E6%B6%A6%E6%A8%A1%E5%9E%8B%E7%A0%94%E7%A9%B6%20%E5%88%98%E9%94%A1%E6%B4%8B.pdf",
+      "original_path": "原始资料/KB069__基于多服务器系统配置策略的云计算利润模型研究 刘锡洋.pdf",
+      "original_sha256": "97157abe4e12e820438535c66ee22a69399a7f27db3939a07409633307eafe3c",
+      "original_unchanged": true,
+      "actual_format": "HN",
+      "page_count": 53,
+      "rendered_all_pages": true,
+      "pdf_path": "派生资料/CAJ转换/KB069__基于多服务器系统配置策略的云计算利润模型研究 刘锡洋.converted.pdf",
+      "text_path": "派生资料/CAJ转换/KB069__基于多服务器系统配置策略的云计算利润模型研究 刘锡洋.txt",
+      "pages_metadata_path": "派生资料/CAJ转换/KB069__基于多服务器系统配置策略的云计算利润模型研究 刘锡洋.pages.json",
+      "text_characters": 47160,
+      "placeholder_count": 1,
+      "empty_text_pages": [],
+      "pdf_text_layer": false,
+      "method": "caj2pdf image reconstruction; separate unchanged HN embedded-text extraction",
+      "visual_spot_checks": [
+        13,
+        23
+      ]
+    },
+    {
+      "id": "KB070",
+      "title": "跨国云计算服务营业利润课税权分配问题研究 冯忠芳.pdf",
+      "source_url": "http://src.source5.uooconline.com/course1314/document/%E8%B7%A8%E5%9B%BD%E4%BA%91%E8%AE%A1%E7%AE%97%E6%9C%8D%E5%8A%A1%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E8%AF%BE%E7%A8%8E%E6%9D%83%E5%88%86%E9%85%8D%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%20%E5%86%AF%E5%BF%A0%E8%8A%B3.pdf",
+      "original_path": "原始资料/KB070__跨国云计算服务营业利润课税权分配问题研究 冯忠芳.pdf",
+      "original_sha256": "bdae1bbebdd9aa5d509b18b1c224b6d7228c09fbc0aa8633b1a8a4651c712977",
+      "original_unchanged": true,
+      "actual_format": "HN",
+      "page_count": 38,
+      "rendered_all_pages": true,
+      "pdf_path": "派生资料/CAJ转换/KB070__跨国云计算服务营业利润课税权分配问题研究 冯忠芳.converted.pdf",
+      "text_path": "派生资料/CAJ转换/KB070__跨国云计算服务营业利润课税权分配问题研究 冯忠芳.txt",
+      "pages_metadata_path": "派生资料/CAJ转换/KB070__跨国云计算服务营业利润课税权分配问题研究 冯忠芳.pages.json",
+      "text_characters": 40712,
+      "placeholder_count": 0,
+      "empty_text_pages": [],
+      "pdf_text_layer": false,
+      "method": "caj2pdf image reconstruction; separate unchanged HN embedded-text extraction",
+      "visual_spot_checks": [
+        13,
+        16
+      ]
+    },
+    {
+      "id": "KB072",
+      "title": "云计算环境中利润最大化的个性用户服务请求调度研究 徐过.pdf",
+      "source_url": "http://src.source5.uooconline.com/course1314/document/%E4%BA%91%E8%AE%A1%E7%AE%97%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%88%A9%E6%B6%A6%E6%9C%80%E5%A4%A7%E5%8C%96%E7%9A%84%E4%B8%AA%E6%80%A7%E7%94%A8%E6%88%B7%E6%9C%8D%E5%8A%A1%E8%AF%B7%E6%B1%82%E8%B0%83%E5%BA%A6%E7%A0%94%E7%A9%B6%20%E5%BE%90%E8%BF%87.pdf",
+      "original_path": "原始资料/KB072__云计算环境中利润最大化的个性用户服务请求调度研究 徐过.pdf",
+      "original_sha256": "f67b4cc49fb4e1eba83fe0b053367844c80898d679c34801156d82622257bead",
+      "original_unchanged": true,
+      "actual_format": "CAJ",
+      "page_count": 86,
+      "rendered_all_pages": true,
+      "pdf_path": "派生资料/CAJ转换/KB072__云计算环境中利润最大化的个性用户服务请求调度研究 徐过.converted.pdf",
+      "text_path": "派生资料/CAJ转换/KB072__云计算环境中利润最大化的个性用户服务请求调度研究 徐过.txt",
+      "pages_metadata_path": "派生资料/CAJ转换/KB072__云计算环境中利润最大化的个性用户服务请求调度研究 徐过.pages.json",
+      "text_characters": 76571,
+      "placeholder_count": 0,
+      "empty_text_pages": [
+        3
+      ],
+      "pdf_text_layer": true,
+      "method": "caj2pdf object reconstruction + existing PyMuPDF repair/bookmarks",
+      "empty_page_note": "Physical page 3 is an image-only originality/copyright declaration; preserved visually in PDF, not OCRed.",
+      "visual_spot_checks": [
+        13,
+        3
+      ]
+    },
+    {
+      "id": "KB076",
+      "title": "云计算环境中利润最大化的最优服务定价与多服务器系统配置研究 邵高原.pdf",
+      "source_url": "http://src.source5.uooconline.com/course1314/document/%E4%BA%91%E8%AE%A1%E7%AE%97%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%88%A9%E6%B6%A6%E6%9C%80%E5%A4%A7%E5%8C%96%E7%9A%84%E6%9C%80%E4%BC%98%E6%9C%8D%E5%8A%A1%E5%AE%9A%E4%BB%B7%E4%B8%8E%E5%A4%9A%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E7%A0%94%E7%A9%B6%20%E9%82%B5%E9%AB%98%E5%8E%9F.pdf",
+      "original_path": "原始资料/KB076__云计算环境中利润最大化的最优服务定价与多服务器系统配置研究 邵高原.pdf",
+      "original_sha256": "fc7003a803d6c241fd6283b2f3418b13f2f98a147d244b24b372a5c8522621ca",
+      "original_unchanged": true,
+      "actual_format": "HN",
+      "page_count": 85,
+      "rendered_all_pages": true,
+      "pdf_path": "派生资料/CAJ转换/KB076__云计算环境中利润最大化的最优服务定价与多服务器系统配置研究 邵高原.converted.pdf",
+      "text_path": "派生资料/CAJ转换/KB076__云计算环境中利润最大化的最优服务定价与多服务器系统配置研究 邵高原.txt",
+      "pages_metadata_path": "派生资料/CAJ转换/KB076__云计算环境中利润最大化的最优服务定价与多服务器系统配置研究 邵高原.pages.json",
+      "text_characters": 72125,
+      "placeholder_count": 3,
+      "empty_text_pages": [],
+      "pdf_text_layer": false,
+      "method": "caj2pdf image reconstruction; separate unchanged HN embedded-text extraction",
+      "visual_spot_checks": [
+        13,
+        22
+      ]
+    }
+  ]
+}

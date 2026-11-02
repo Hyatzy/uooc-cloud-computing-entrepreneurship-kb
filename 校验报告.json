@@ -1,0 +1,105 @@
+{
+  "checked_at": "2026-11-02",
+  "course": "云计算行业与创新创业对接范式",
+  "catalog_records": 176,
+  "unique_sources": 171,
+  "nonempty_originals": 170,
+  "source_failures": [
+    "KB046"
+  ],
+  "duplicate_associations": 5,
+  "original_bytes": 183291721,
+  "actual_formats": {
+    "DOCX": 31,
+    "PDF": 127,
+    "EMPTY": 1,
+    "MD": 2,
+    "CAJ": 2,
+    "HN": 4,
+    "DOC": 2,
+    "PPTX": 2
+  },
+  "body_files": 180,
+  "course_body_files": 176,
+  "quiz_body_files": 4,
+  "quiz_questions": 24,
+  "searchable_associations": 179,
+  "chunks": 3114,
+  "course_chunks": 3090,
+  "quiz_chunks": 24,
+  "extraction_states": {
+    "extracted": 158,
+    "ocr_unverified": 17,
+    "extraction_failed": 1
+  },
+  "ocr_documents": 17,
+  "ocr_pages": 55,
+  "caj_hn_documents": 6,
+  "caj_hn_pages": 372,
+  "checks": "Raw file existence, size and SHA; corpus coverage; JSON/SQLite/FTS counts; database integrity; numerical distinctions: passed",
+  "search_checks": [
+    {
+      "query": "神经中枢",
+      "document": "KB001",
+      "hits": 1,
+      "location": "段落 31",
+      "text_status": "extracted"
+    },
+    {
+      "query": "云计算的爆发期",
+      "document": "KB012",
+      "hits": 1,
+      "location": "段落 3",
+      "text_status": "extracted"
+    },
+    {
+      "query": "商业模式研究",
+      "document": "KB067",
+      "hits": 49,
+      "location": "文件物理页 1 · HN 文字层",
+      "text_status": "extracted"
+    },
+    {
+      "query": "创业",
+      "document": "KB021",
+      "hits": 1,
+      "location": "第 1 页 · OCR（未人工核验）",
+      "text_status": "ocr_unverified"
+    },
+    {
+      "query": "用户适应度",
+      "document": "KB114",
+      "hits": 33,
+      "location": "第 1 页 · OCR（未人工核验）",
+      "text_status": "ocr_unverified"
+    },
+    {
+      "query": "声明",
+      "document": "KB072",
+      "hits": 1,
+      "location": "第 3 页 · OCR（未人工核验）",
+      "text_status": "ocr_unverified"
+    },
+    {
+      "query": "政企资源",
+      "document": "QUIZ-1.2",
+      "hits": 1,
+      "location": "多选题 第 1 题 · Q1.2-M1",
+      "text_status": "platform_recorded"
+    },
+    {
+      "query": "新技术优势",
+      "document": "QUIZ-1.3",
+      "hits": 1,
+      "location": "多选题 第 2 题 · Q1.3-M2",
+      "text_status": "platform_recorded"
+    },
+    {
+      "query": "移动电子政务",
+      "document": "QUIZ-1.4",
+      "hits": 1,
+      "location": "判断题 第 1 题 · Q1.4-T1",
+      "text_status": "platform_recorded"
+    }
+  ]
+}

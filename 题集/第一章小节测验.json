@@ -1,0 +1,1342 @@
+{
+  "schema_version": 1,
+  "course": "云计算行业与创新创业对接范式",
+  "course_id": "2026373645",
+  "chapter": "第1章 云计算行业创业认识",
+  "source_kind": "quiz_platform",
+  "captured_at": "2026-09-25",
+  "source_record_path": "题集/页面记录.json",
+  "source_record_sha256": "5562c5b0eb093a2c92a04f66fd6e5f06dd6ae9d0dce1b0a3cd00824ac9e9d0bb",
+  "canonical_characters": 9338,
+  "canonical_fnv1a32": "bb810544",
+  "quizzes": [
+    {
+      "section": "1.1",
+      "source_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/1695055856/1005917397/1185230506/section",
+      "submitted_at": "2026-09-25",
+      "score": 100,
+      "questions": [
+        {
+          "type": "单选题",
+          "number": 1,
+          "stem": "云计算相当于人的大脑，是物联网的（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "神经中枢"
+            },
+            {
+              "label": "B",
+              "text": "精髓"
+            },
+            {
+              "label": "C",
+              "text": "核心"
+            },
+            {
+              "label": "D",
+              "text": "内在要求"
+            }
+          ],
+          "submitted_answer": [
+            "A"
+          ],
+          "platform_answer": [
+            "A"
+          ],
+          "platform_explanation": "云计算相当于人的大脑，是物联网的神经中枢。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.1-S1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "神经中枢"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "神经中枢"
+            }
+          ]
+        },
+        {
+          "type": "单选题",
+          "number": 2,
+          "stem": "下列说法错误的是（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "简言之物联网就是“物物相连的互联网”。"
+            },
+            {
+              "label": "B",
+              "text": "现在的物联网产业以应用层、支撑层、感知层、平台层这四个层次构成。"
+            },
+            {
+              "label": "C",
+              "text": "云计算将引发企业生产方式和商业模式的巨大变革。"
+            },
+            {
+              "label": "D",
+              "text": "从技术上来看，大数据和云计算的关系就像一枚硬币的正反面一样密不可分。"
+            }
+          ],
+          "submitted_answer": [
+            "B"
+          ],
+          "platform_answer": [
+            "B"
+          ],
+          "platform_explanation": "B项现在的物联网产业以应用层、支撑层、感知层、平台层以及传输层这五个层次构成。ACD都对",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.1-S2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "B",
+              "text": "现在的物联网产业以应用层、支撑层、感知层、平台层这四个层次构成。"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "B",
+              "text": "现在的物联网产业以应用层、支撑层、感知层、平台层这四个层次构成。"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 1,
+          "stem": "物联网是实现（ ）的一种网络。",
+          "options": [
+            {
+              "label": "A",
+              "text": "智能化识别"
+            },
+            {
+              "label": "B",
+              "text": "定位"
+            },
+            {
+              "label": "C",
+              "text": "跟踪"
+            },
+            {
+              "label": "D",
+              "text": "监控和管理"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "platform_answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "platform_explanation": "物联网是以实现智能化识别、定位、跟踪、监控和管理的一种网络。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.1-M1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "智能化识别"
+            },
+            {
+              "label": "B",
+              "text": "定位"
+            },
+            {
+              "label": "C",
+              "text": "跟踪"
+            },
+            {
+              "label": "D",
+              "text": "监控和管理"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "智能化识别"
+            },
+            {
+              "label": "B",
+              "text": "定位"
+            },
+            {
+              "label": "C",
+              "text": "跟踪"
+            },
+            {
+              "label": "D",
+              "text": "监控和管理"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 2,
+          "stem": "大数据的特征正确的有（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "海量的数据规模"
+            },
+            {
+              "label": "B",
+              "text": "快速的数据流转"
+            },
+            {
+              "label": "C",
+              "text": "多样的数据类型"
+            },
+            {
+              "label": "D",
+              "text": "价值密度低"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "platform_answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "platform_explanation": "大数据具有海量的数据规模、快速的数据流转、多样的数据类型和价值密度低四大特征。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.1-M2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "海量的数据规模"
+            },
+            {
+              "label": "B",
+              "text": "快速的数据流转"
+            },
+            {
+              "label": "C",
+              "text": "多样的数据类型"
+            },
+            {
+              "label": "D",
+              "text": "价值密度低"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "海量的数据规模"
+            },
+            {
+              "label": "B",
+              "text": "快速的数据流转"
+            },
+            {
+              "label": "C",
+              "text": "多样的数据类型"
+            },
+            {
+              "label": "D",
+              "text": "价值密度低"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 1,
+          "stem": "目前物联网的服务器部署在云端，通过人工智能提供应用层的各项服务。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "B"
+          ],
+          "platform_answer": [
+            "B"
+          ],
+          "platform_explanation": "目前物联网的服务器部署在云端，通过云计算提供应用层的各项服务 。",
+          "teacher_comment": "暂无",
+          "awarded_score": 10,
+          "max_score": 10,
+          "id": "Q1.1-T1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 2,
+          "stem": "人工智能是计算机科学的一个分枝，它企图了解智能的实质。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "A"
+          ],
+          "platform_answer": [
+            "A"
+          ],
+          "platform_explanation": "人工智能是计算机科学的一个分枝，它企图了解智能的实质。",
+          "teacher_comment": "暂无",
+          "awarded_score": 10,
+          "max_score": 10,
+          "id": "Q1.1-T2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ]
+        }
+      ],
+      "id": "QUIZ-1.1",
+      "title": "1.1小节测验",
+      "max_score": 100,
+      "body_path": "题集/1.1小节测验.md"
+    },
+    {
+      "section": "1.2",
+      "source_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/1695055856/430091574/613599119/section",
+      "submitted_at": "2026-09-25",
+      "score": 100,
+      "questions": [
+        {
+          "type": "单选题",
+          "number": 1,
+          "stem": "传统模式下自给自足的 IT 运用模式，在云计算中已经改变成为（ ）的模式。",
+          "options": [
+            {
+              "label": "A",
+              "text": "分工专业、协同配合"
+            },
+            {
+              "label": "B",
+              "text": "分工专业、技术创新"
+            },
+            {
+              "label": "C",
+              "text": "统一分工、协同配合"
+            },
+            {
+              "label": "D",
+              "text": "统一分工、技术创新"
+            }
+          ],
+          "submitted_answer": [
+            "A"
+          ],
+          "platform_answer": [
+            "A"
+          ],
+          "platform_explanation": "传统模式下自给自足的 IT 运用模式，在云计算中已经改变成为分工专业、协同配合的模式 。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.2-S1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "分工专业、协同配合"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "分工专业、协同配合"
+            }
+          ]
+        },
+        {
+          "type": "单选题",
+          "number": 2,
+          "stem": "2015-2019 年云计算产业规模年复合增长率达（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "10％"
+            },
+            {
+              "label": "B",
+              "text": "20％"
+            },
+            {
+              "label": "C",
+              "text": "30％"
+            },
+            {
+              "label": "D",
+              "text": "40％"
+            }
+          ],
+          "submitted_answer": [
+            "C"
+          ],
+          "platform_answer": [
+            "C"
+          ],
+          "platform_explanation": "2015-2019 年云计算产业规模年复合增长率达30％。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.2-S2",
+          "conflict": null,
+          "notes": [
+            "保留题目中的历史年份及平台表述；此次归档未独立验证历史统计来源。"
+          ],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "C",
+              "text": "30％"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "C",
+              "text": "30％"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 1,
+          "stem": "云计算服务公司核心竞争力所在是（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "技术"
+            },
+            {
+              "label": "B",
+              "text": "资金"
+            },
+            {
+              "label": "C",
+              "text": "优质服务"
+            },
+            {
+              "label": "D",
+              "text": "政企资源"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "platform_answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "platform_explanation": "技术、资金、政企资源优势将是云计算服务公司核心竞争力所在",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.2-M1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "技术"
+            },
+            {
+              "label": "B",
+              "text": "资金"
+            },
+            {
+              "label": "D",
+              "text": "政企资源"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "技术"
+            },
+            {
+              "label": "B",
+              "text": "资金"
+            },
+            {
+              "label": "D",
+              "text": "政企资源"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 2,
+          "stem": "在IT 细分领域中，存在的云计算企业正确的是（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "传统企业转型云服务公司"
+            },
+            {
+              "label": "B",
+              "text": "创新的企业转型云服务公司"
+            },
+            {
+              "label": "C",
+              "text": "完全的云服务公司"
+            },
+            {
+              "label": "D",
+              "text": "自动化的云服务公司"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "C"
+          ],
+          "platform_answer": [
+            "A",
+            "C"
+          ],
+          "platform_explanation": "在IT 细分领域中，存在两种云计算企业：一条是完全的云服务公司，另外一条是传统企业转型云服务公司。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.2-M2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "传统企业转型云服务公司"
+            },
+            {
+              "label": "C",
+              "text": "完全的云服务公司"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "传统企业转型云服务公司"
+            },
+            {
+              "label": "C",
+              "text": "完全的云服务公司"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 1,
+          "stem": "云计算行业由用户需求和技术革新双重驱动，云计算服务能为企业带来新增的赢利点，并大幅降低成本，是 IT 发展大趋势。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "A"
+          ],
+          "platform_answer": [
+            "A"
+          ],
+          "platform_explanation": "云计算行业由用户需求和技术革新双重驱动，云计算服务能为企业带来新增的赢利点，并大幅降低成本，是 IT 发展大趋势。",
+          "teacher_comment": "暂无",
+          "awarded_score": 10,
+          "max_score": 10,
+          "id": "Q1.2-T1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 2,
+          "stem": "云计算提供商的数据中心较之中小型数据中心更加专业，管理水平更高，成本更高。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "B"
+          ],
+          "platform_answer": [
+            "B"
+          ],
+          "platform_explanation": "云计算提供商的数据中心较之中小型数据中心更加专业，管理水平更高，成本更低。",
+          "teacher_comment": "暂无",
+          "awarded_score": 10,
+          "max_score": 10,
+          "id": "Q1.2-T2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ]
+        }
+      ],
+      "id": "QUIZ-1.2",
+      "title": "1.2小节测验",
+      "max_score": 100,
+      "body_path": "题集/1.2小节测验.md"
+    },
+    {
+      "section": "1.3",
+      "source_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/1695055856/2140160619/92249312/section",
+      "submitted_at": "2026-09-25",
+      "score": 80,
+      "questions": [
+        {
+          "type": "单选题",
+          "number": 1,
+          "stem": "纵观当前的商业秩序，云计算正处于（ ）的关键位置上，其前景非常光明。",
+          "options": [
+            {
+              "label": "A",
+              "text": "船长"
+            },
+            {
+              "label": "B",
+              "text": "灯塔"
+            },
+            {
+              "label": "C",
+              "text": "船员"
+            },
+            {
+              "label": "D",
+              "text": "舵手"
+            }
+          ],
+          "submitted_answer": [
+            "D"
+          ],
+          "platform_answer": [
+            "D"
+          ],
+          "platform_explanation": "纵观当前的商业秩序，云计算正处于舵手的关键位置上，其前景非常光明。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.3-S1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "D",
+              "text": "舵手"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "D",
+              "text": "舵手"
+            }
+          ]
+        },
+        {
+          "type": "单选题",
+          "number": 2,
+          "stem": "在过去的一段时间里，正成为热门创业行业的是（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "物联网"
+            },
+            {
+              "label": "B",
+              "text": "大数据"
+            },
+            {
+              "label": "C",
+              "text": "云计算"
+            },
+            {
+              "label": "D",
+              "text": "人工智能"
+            }
+          ],
+          "submitted_answer": [
+            "C"
+          ],
+          "platform_answer": [
+            "C"
+          ],
+          "platform_explanation": "在过去的一段时间里，云计算正成为热门创业行业。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.3-S2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "C",
+              "text": "云计算"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "C",
+              "text": "云计算"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 1,
+          "stem": "Mesosphere的成功可以很容易地归因于企业对（ ）的基础设施管理解决方案的需求。",
+          "options": [
+            {
+              "label": "A",
+              "text": "更廉价"
+            },
+            {
+              "label": "B",
+              "text": "更简单"
+            },
+            {
+              "label": "C",
+              "text": "更高效"
+            },
+            {
+              "label": "D",
+              "text": "更快速"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "B"
+          ],
+          "platform_answer": [
+            "A",
+            "B"
+          ],
+          "platform_explanation": "Mesosphere的成功可以很容易地归因于企业对更廉价、更简单的基础设施管理解决方案的需求。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.3-M1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "更廉价"
+            },
+            {
+              "label": "B",
+              "text": "更简单"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "更廉价"
+            },
+            {
+              "label": "B",
+              "text": "更简单"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 2,
+          "stem": "云计算使得个人或企业通过（ ）实现更高效率进行业务运作成为可能。",
+          "options": [
+            {
+              "label": "A",
+              "text": "更低的成本"
+            },
+            {
+              "label": "B",
+              "text": "新技术优势"
+            },
+            {
+              "label": "C",
+              "text": "多样的数据类型"
+            },
+            {
+              "label": "D",
+              "text": "利用更小的基础设施规模"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "platform_answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "platform_explanation": "云计算使得个人或企业通过更低的成本、新技术优势、利用更小的基础设施规模实现更高效率进行业务运作成为可能。",
+          "teacher_comment": "暂无",
+          "awarded_score": 0,
+          "max_score": 20,
+          "id": "Q1.3-M2",
+          "conflict": {
+            "status": "platform_key_explanation_conflict",
+            "explanation_mapped_answer": [
+              "A",
+              "B",
+              "D"
+            ],
+            "note": "平台答案键为 ACD；解析列出的“更低的成本、新技术优势、利用更小的基础设施规模”对应 ABD。C“多样的数据类型”未见于解析，不能把答案键和解析合并成确定结论。"
+          },
+          "notes": [],
+          "review_status": "conflict_unresolved",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "更低的成本"
+            },
+            {
+              "label": "B",
+              "text": "新技术优势"
+            },
+            {
+              "label": "D",
+              "text": "利用更小的基础设施规模"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "更低的成本"
+            },
+            {
+              "label": "C",
+              "text": "多样的数据类型"
+            },
+            {
+              "label": "D",
+              "text": "利用更小的基础设施规模"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 1,
+          "stem": "据美国科技博客网站“商业内幕”在2011年底进行的调查显示，接近50%的美国人不知道云计算是何物。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "A"
+          ],
+          "platform_answer": [
+            "A"
+          ],
+          "platform_explanation": "据美国科技博客网站“商业内幕”在2011年底进行的调查显示，接近50%的美国人不知道云计算是何物。",
+          "teacher_comment": "暂无",
+          "awarded_score": 10,
+          "max_score": 10,
+          "id": "Q1.3-T1",
+          "conflict": null,
+          "notes": [
+            "保留题目中的历史年份及平台表述；此次归档未独立验证历史统计来源。"
+          ],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 2,
+          "stem": "随着企业的成长和对物联网、边缘计算等新兴技术的依赖，其复杂性必将减少。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "B"
+          ],
+          "platform_answer": [
+            "B"
+          ],
+          "platform_explanation": "随着企业的成长和对物联网、边缘计算等新兴技术的依赖，其复杂性必将增加。",
+          "teacher_comment": "暂无",
+          "awarded_score": 10,
+          "max_score": 10,
+          "id": "Q1.3-T2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ]
+        }
+      ],
+      "id": "QUIZ-1.3",
+      "title": "1.3小节测验",
+      "max_score": 100,
+      "body_path": "题集/1.3小节测验.md"
+    },
+    {
+      "section": "1.4",
+      "source_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/1695055856/1551702860/1529689541/section",
+      "submitted_at": "2026-09-25",
+      "score": 70,
+      "questions": [
+        {
+          "type": "单选题",
+          "number": 1,
+          "stem": "云计算产业极其丰富，且产业链长、技术新，正处在的阶段是（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "成熟阶段"
+            },
+            {
+              "label": "B",
+              "text": "高速发展阶段"
+            },
+            {
+              "label": "C",
+              "text": "探索阶段"
+            },
+            {
+              "label": "D",
+              "text": "新兴萌芽阶段"
+            }
+          ],
+          "submitted_answer": [
+            "B"
+          ],
+          "platform_answer": [
+            "D"
+          ],
+          "platform_explanation": "云计算产业极其丰富，且产业链长、技术新，正处在新兴萌芽阶段，许多新技术创新及新应用、新服务给大学生们带来巨大的创新创业的机会",
+          "teacher_comment": "暂无",
+          "awarded_score": 0,
+          "max_score": 20,
+          "id": "Q1.4-S1",
+          "conflict": null,
+          "notes": [
+            "此前误用通用产业发展信息选择“高速发展阶段”；本课程平台解析使用“新兴萌芽阶段”。保留课程及时间语境，不能推广为当前行业阶段。"
+          ],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "B",
+              "text": "高速发展阶段"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "D",
+              "text": "新兴萌芽阶段"
+            }
+          ]
+        },
+        {
+          "type": "单选题",
+          "number": 2,
+          "stem": "友友系统开发的产品是云计算操作系统——（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "开放式数据储存和处理平台"
+            },
+            {
+              "label": "B",
+              "text": "分布式数据存储和处理平台"
+            },
+            {
+              "label": "C",
+              "text": "开放式售后服务和商业模块"
+            },
+            {
+              "label": "D",
+              "text": "分布式式售后服务和商业模块"
+            }
+          ],
+          "submitted_answer": [
+            "B"
+          ],
+          "platform_answer": [
+            "B"
+          ],
+          "platform_explanation": "友友系统的创始人是前雅虎研究员姚宏宇，友友系统开发的产品是云计算操作系统——分布式数据存储和处理平台。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.4-S2",
+          "conflict": null,
+          "notes": [
+            "D 选项原页面写作“分布式式售后服务和商业模块”，保留重复字，不擅自改写。"
+          ],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "B",
+              "text": "分布式数据存储和处理平台"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "B",
+              "text": "分布式数据存储和处理平台"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 1,
+          "stem": "在云计算与大数据技术飞速发展的今天，大学生创业机会来自的方面有（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "云计算产业链自身"
+            },
+            {
+              "label": "B",
+              "text": "云计算与大数据的飞速发展推动着传统产业、商业模式、服务模式的转型升级"
+            },
+            {
+              "label": "C",
+              "text": "移动互联网"
+            },
+            {
+              "label": "D",
+              "text": "互联网金融"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "B"
+          ],
+          "platform_answer": [
+            "A",
+            "B"
+          ],
+          "platform_explanation": "在云计算与大数据技术飞速发展的今天，大学生创业机会，一方面来自云计算产业链自身，云计算产业极其丰富，且产业链长、技术新，正处在新兴萌芽阶段，许多新技术创新及新应用、新服务给大学生们带来巨大的创新创业的机会；另一方面是云计算与大数据的飞速发展推动着传统产业、商业模式、服务模式的转型升级",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.4-M1",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "云计算产业链自身"
+            },
+            {
+              "label": "B",
+              "text": "云计算与大数据的飞速发展推动着传统产业、商业模式、服务模式的转型升级"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "云计算产业链自身"
+            },
+            {
+              "label": "B",
+              "text": "云计算与大数据的飞速发展推动着传统产业、商业模式、服务模式的转型升级"
+            }
+          ]
+        },
+        {
+          "type": "多选题",
+          "number": 2,
+          "stem": "京东云电商云主要服务的场景是（ ）。",
+          "options": [
+            {
+              "label": "A",
+              "text": "零售电商"
+            },
+            {
+              "label": "B",
+              "text": "品牌电商"
+            },
+            {
+              "label": "C",
+              "text": "社交电商"
+            },
+            {
+              "label": "D",
+              "text": "商标电商"
+            }
+          ],
+          "submitted_answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "platform_answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "platform_explanation": "京东云电商云主要服务于零售电商、品牌电商和社交电商三大场景。",
+          "teacher_comment": "暂无",
+          "awarded_score": 20,
+          "max_score": 20,
+          "id": "Q1.4-M2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "零售电商"
+            },
+            {
+              "label": "B",
+              "text": "品牌电商"
+            },
+            {
+              "label": "C",
+              "text": "社交电商"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "零售电商"
+            },
+            {
+              "label": "B",
+              "text": "品牌电商"
+            },
+            {
+              "label": "C",
+              "text": "社交电商"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 1,
+          "stem": "各级政府的公众账号都可以享受云时代的相关服务，如提交交警罚款、水电费等，信息化政务成为推进国家治理体系的有效工具。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "A"
+          ],
+          "platform_answer": [
+            "B"
+          ],
+          "platform_explanation": "各级政府的公众账号都可以享受云时代的相关服务，如提交交警罚款、水电费等，移动电子政务成为推进国家治理体系的有效工具。",
+          "teacher_comment": "暂无",
+          "awarded_score": 0,
+          "max_score": 10,
+          "id": "Q1.4-T1",
+          "conflict": null,
+          "notes": [
+            "题干是“信息化政务”，解析是“移动电子政务”；平台判“错误”。后续必须逐字核对术语。"
+          ],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ]
+        },
+        {
+          "type": "判断题",
+          "number": 2,
+          "stem": "历源科技研发了我国首款奶牛牧场云计算管理系统。",
+          "options": [
+            {
+              "label": "A",
+              "text": "正确"
+            },
+            {
+              "label": "B",
+              "text": "错误"
+            }
+          ],
+          "submitted_answer": [
+            "A"
+          ],
+          "platform_answer": [
+            "A"
+          ],
+          "platform_explanation": "历源科技研发了我国首款奶牛牧场云计算管理系统。",
+          "teacher_comment": "暂无",
+          "awarded_score": 10,
+          "max_score": 10,
+          "id": "Q1.4-T2",
+          "conflict": null,
+          "notes": [],
+          "review_status": "platform_recorded",
+          "submitted_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ],
+          "platform_answer_contents": [
+            {
+              "label": "A",
+              "text": "正确"
+            }
+          ]
+        }
+      ],
+      "id": "QUIZ-1.4",
+      "title": "1.4小节测验",
+      "max_score": 100,
+      "body_path": "题集/1.4小节测验.md"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "document_id": "KB059",
+  "source_sha256": "1cabc2188c21d758b881f1566dbbe68c005f955dbdb5d40edc511d1b71df7037",
+  "pages": [
+    {
+      "confidence": 0.30000001192092896,
+      "lines": [
+        {
+          "bbox": [
+            0.6826106203712605,
+            0.44103849241531445,
+            0.04432557880805843,
+            0.01292101105054222
+          ],
+          "confidence": 0.30000001192092896,
+          "text": "月三！"
+        },
+        {
+          "bbox": [
+            0.03609342098196745,
+            0.02166666659417804,
+            0.11677281778128805,
+            0.013333333333333308
+          ],
+          "confidence": 0.30000001192092896,
+          "text": "（C）1994-2019盒"
+        },
+        {
+          "bbox": [
+            0.5902335495516688,
+            0.020348837078205007,
+            0.23566878175909722,
+            0.013081395626068137
+          ],
+          "confidence": 0.30000001192092896,
+          "text": "Ri rights reserved. http://www"
+        },
+        {
+          "bbox": [
+            0.8378960785469021,
+            0.020466885973633553,
+            0.06108908705531313,
+            0.014291407267252643
+          ],
+          "confidence": 0.30000001192092896,
+          "text": "enki.net"
+        }
+      ],
+      "method": "macos_vision",
+      "page": 7,
+      "text": "月三！\n（C）1994-2019盒\nRi rights reserved. http://www\nenki.net",
+      "warnings": [
+        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
+      ]
+    },
+    {
+      "confidence": 0.5,
+      "lines": [
+        {
+          "bbox": [
+            0.03184713807669843,
+            0.018749999682670437,
+            0.8683651588430649,
+            0.022083333333333344
+          ],
+          "confidence": 0.5,
+          "text": "（C100+-2019 China Academic Joumal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+        }
+      ],
+      "method": "macos_vision",
+      "page": 10,
+      "text": "（C100+-2019 China Academic Joumal Electronic Publishing House. All rights reserved. http://www.cnki.net",
+      "warnings": [
+        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
+      ]
+    }
+  ]
+}

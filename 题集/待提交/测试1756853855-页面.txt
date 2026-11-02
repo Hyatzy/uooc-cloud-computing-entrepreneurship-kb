@@ -1,0 +1,181 @@
+Title: "优课在线-专注在线教育 专注高等教育", URL: "https://www.uooc.net.cn/home/exam/1756853855".
+0 AXWebArea 优课在线-专注在线教育 专注高等教育, URL: uooc.net.cn/home/exam/1756853855
+	1 container
+		2 container examMain
+			3 container testPaperTop
+				4 text 云计算行业与创新创业对接范式
+				5 text 返回
+			6 container testPaperLeft
+				9 container
+					10 text   试卷结构 满分： 100  分
+				11 content list queList
+					12 container
+						13 text 一、单选题 (共1题，10.00分)
+						14 text 1
+					15 container
+						16 text 二、判断题 (共9题，90.00分)
+						17 text 1
+						18 text 2
+						19 text 3
+						20 text 4
+						21 text 5
+						22 text 6
+						23 text 7
+						24 text 8
+						25 text 9
+				26 button 提交试卷
+			27 container testPaperShow
+				28 heading 一、单选题 (共 10.00 分), Value: 2
+					29 text 一、单选题 
+					30 container
+						31 text (共  10.00  分)
+				32 container
+					33 text 1.
+					34 container
+						35 text 云计算相当于人的大脑，是物联网的（ ）。
+						36 radio button (settable, integer) Description: A. 神经中枢, Value: 1
+						37 text A.
+						38 text 神经中枢
+						39 radio button (settable, integer) Description: B. 精髓, Value: 0
+						40 text B.
+						41 text 精髓
+						42 radio button (settable, integer) Description: C. 核心, Value: 0
+						43 text C.
+						44 text 核心
+						45 radio button (settable, integer) Description: D. 内在要求, Value: 0
+						46 text D.
+						47 text 内在要求
+					48 container
+						49 text ( 10.00  分 )
+				50 heading 二、判断题 (共 90.00 分), Value: 2
+					51 text 二、判断题 
+					52 container
+						53 text (共  90.00  分)
+				54 container
+					55 text 1.
+					56 container
+						57 text 人脸比对是基于用户输入的两张图片，可检测两张图片中的人脸，并挑选两张图片的最大人脸进行比较，判断是否是同一人。
+						58 radio button (settable, integer) Description: A. 正确, Value: 1
+						59 text A.
+						60 text 正确
+						61 radio button (settable, integer) Description: B. 错误, Value: 0
+						62 text B.
+						63 text 错误
+					64 container
+						65 text ( 10.00  分 )
+				66 container
+					67 text 2.
+					68 container
+						69 text 服务等级是一组预期的、隐含的服务质量。
+						70 radio button (settable, integer) Description: A. 正确, Value: 0
+						71 text A.
+						72 text 正确
+						73 radio button (settable, integer) Description: B. 错误, Value: 1
+						74 text B.
+						75 text 错误
+					76 container
+						77 text ( 10.00  分 )
+				78 container
+					79 text 3.
+					80 container
+						81 text 华为云服务生态策略：与行业内TOP企业合作共生、共赢。
+						82 radio button (settable, integer) Description: A. 正确, Value: 1
+						83 text A.
+						84 text 正确
+						85 radio button (settable, integer) Description: B. 错误, Value: 0
+						86 text B.
+						87 text 错误
+					88 container
+						89 text ( 10.00  分 )
+				90 container
+					91 text 4.
+					92 container
+						93 text 云计算的技术标准可能产生锁定效应，容易导致云计算服务市场很难进入。
+						94 radio button (settable, integer) Description: A. 正确, Value: 1
+						95 text A.
+						96 text 正确
+						97 radio button (settable, integer) Description: B. 错误, Value: 0
+						98 text B.
+						99 text 错误
+					100 container
+						101 text ( 10.00  分 )
+				102 container
+					103 text 5.
+					104 container
+						105 text 服务器端的程序开发极为重要，所有的功能均需要严格按照需求分析阶段整理的功能来进行开
+						106 radio button (settable, integer) Description: A. 正确, Value: 1
+						107 text A.
+						108 text 正确
+						109 radio button (settable, integer) Description: B. 错误, Value: 0
+						110 text B.
+						111 text 错误
+					112 container
+						113 text ( 10.00  分 )
+				114 container
+					115 text 6.
+					116 container
+						117 text 华为云采用的是独特的前店后厂模式：——让企业客户以较低成本，获得高质量的云计算服务。
+						118 radio button (settable, integer) Description: A. 正确, Value: 1
+						119 text A.
+						120 text 正确
+						121 radio button (settable, integer) Description: B. 错误, Value: 0
+						122 text B.
+						123 text 错误
+					124 container
+						125 text ( 10.00  分 )
+				126 container
+					127 text 7.
+					128 container
+						129 text IaaS马太效应开始显现。
+						130 radio button (settable, integer) Description: A. 正确, Value: 1
+						131 text A.
+						132 text 正确
+						133 radio button (settable, integer) Description: B. 错误, Value: 0
+						134 text B.
+						135 text 错误
+					136 container
+						137 text ( 10.00  分 )
+				138 container
+					139 text 8.
+					140 container
+						141 text 在目标市场中，以横向和纵向构建渠道体系。
+						142 radio button (settable, integer) Description: A. 正确, Value: 1
+						143 text A.
+						144 text 正确
+						145 radio button (settable, integer) Description: B. 错误, Value: 0
+						146 text B.
+						147 text 错误
+					148 container
+						149 text ( 10.00  分 )
+				150 container
+					151 text 9.
+					152 container
+						153 text 小鸟云是国内为数不多具有ISP/IDC双资质的专业云计算服务商。
+						154 radio button (settable, integer) Description: A. 正确, Value: 1
+						155 text A.
+						156 text 正确
+						157 radio button (settable, integer) Description: B. 错误, Value: 0
+						158 text B.
+						159 text 错误
+					160 container
+						161 text ( 10.00  分 )
+		162 container
+			163 image
+			164 text Flash Notes
+			165 button All Notes
+				166 image
+			167 button New Note
+				168 image
+			169 button Close
+				170 image
+		171 text entry area (settable)
+		172 container
+			173 image
+			174 text Save to folder
+		175 container Notifications
+		176 text ✓ 已复制
+		177 container Notifications
+		178 container Notifications
+		179 container Notifications
+
+The focused UI element is 154 radio button (settable, integer) Description: A. 正确, Value: 1

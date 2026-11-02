@@ -1,0 +1,525 @@
+{
+  "schema_version": 1,
+  "source_kind": "quiz_pending_verification",
+  "course": "云计算行业与创新创业对接范式",
+  "course_id": "2026373645",
+  "chapter": "第2章 云计算创业项目选择和市场分析",
+  "section": "2.2",
+  "section_title": "云计算背景下大学生的创业特点及建议有哪些",
+  "title": "2.2小节测验",
+  "recorded_at": "2026-09-26",
+  "source_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/841659297/1992679911/2109028476/section",
+  "record_basis": "题干、选项、分值及选中状态据页面转录；非原始DOM快照。",
+  "submission_status": "not_selected_not_submitted",
+  "submitted_at": null,
+  "score": null,
+  "max_score": 100,
+  "platform_answers_available": false,
+  "included_in_submitted_index": false,
+  "pending_action": "成功提交后再读取平台成绩、答案与解析，更新正式题集。",
+  "knowledge_base_search": {
+    "checked": "正文/KB034.md直接匹配；KB035、KB036及全库关键短语检索辅助。重新读取KB034原PDF物理第1–2页文字层核对全部引文。",
+    "result": "六题均找到课程附件直接对应表述。统计和特点结论限定于文中高职院校调研/论述语境，不能泛化为全国全体大学生统计。"
+  },
+  "sources": [
+    {
+      "id": "E1",
+      "kind": "course_material",
+      "document_id": "KB034",
+      "title": "“云时代”背景下高职院校大学生创业机遇与对策研究",
+      "authors": [
+        "王永祥",
+        "何雪利",
+        "林培鹏"
+      ],
+      "publication": "创新与创业教育，2019年4月，第10卷第2期，88–90页",
+      "url": "http://src.source5.uooconline.com/course1314/document/_%E4%BA%91%E6%97%B6%E4%BB%A3_%E8%83%8C%E6%99%AF%E4%B8%8B%E9%AB%98%E8%81%8C%E9%99%A2%E6%A0%A1%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E6%9C%BA%E9%81%87%E4%B8%8E%E5%AF%B9%E7%AD%96%E7%A0%94%E7%A9%B6_%E7%8E%8B%E6%B0%B8%E7%A5%A5.pdf",
+      "local_fulltext_path": "正文/KB034.md",
+      "local_original_path": "原始资料/KB034___云时代_背景下高职院校大学生创业机遇与对策研究_王永祥.pdf",
+      "sha256": "96570333db2ed408baf73c4e69a758707d7524955dff5370d2ca0651df636caf",
+      "accessed_on": "2026-09-26",
+      "status": "已读取课程正文并重新提取原PDF第1–2物理页核对；无OCR。引文合并原PDF换行及排版空白，未改措辞。",
+      "scope": "以广州番禺职业技术学院、广州铁路职业技术学院、广州科技贸易职业学院等十余所高职院校为调研对象；部分统计来自60多个创业项目，不是全国全体大学生统计。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q2.2-S1",
+      "type": "单选题",
+      "number": 1,
+      "stem": "90%以上的学生创业项目启动资金在（ ）。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "3000元以下",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "3000-10000元",
+          "selected": false
+        },
+        {
+          "label": "C",
+          "text": "10000-15000元",
+          "selected": false
+        },
+        {
+          "label": "D",
+          "text": "15000-20000元",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "B"
+      ],
+      "candidate_answer_contents": [
+        "3000-10000元"
+      ],
+      "selected_answer": [],
+      "selection_status": "尚未选择",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "teacher_comment": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "物理第2页（印刷第89页），一、高职院校大学生的创业特点，第四点“创业资金少”",
+          "quote": "第四，创业资金少。从广州科技贸易职业学院、番禺职业技术学院、广州铁路职业技术学院等高职院校的大学生创新创业大赛及入驻创新创业孵化基地的60多个项目中，发现大学生缺少原始资金的积累，90%以上的学生创业项目启动资金在3 000元到10 000元之间，学生创业资金少，门槛低。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "3000元以下",
+          "assessment": "不支持",
+          "reason": "原文区间是3000至10000元，不是3000元以下。"
+        },
+        {
+          "label": "B",
+          "text": "3000-10000元",
+          "assessment": "支持",
+          "reason": "与原文“3 000元到10 000元之间”完整区间一致。"
+        },
+        {
+          "label": "C",
+          "text": "10000-15000元",
+          "assessment": "不支持",
+          "reason": "区间不一致；原文没有把90%以上对应于10000至15000元。"
+        },
+        {
+          "label": "D",
+          "text": "15000-20000元",
+          "assessment": "不支持",
+          "reason": "区间不一致；原文没有把90%以上对应于15000至20000元。"
+        }
+      ],
+      "verification_status": "已核对课程附件对应原文及当前选项内容；仅在本节高职院校调研/论述语境下支持候选答案；平台答案及评分未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.2-S2",
+      "type": "单选题",
+      "number": 2,
+      "stem": "大学生创业项目类别占比最高的是（ ）",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "科技类",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "制造类",
+          "selected": false
+        },
+        {
+          "label": "C",
+          "text": "贸易、服务类",
+          "selected": false
+        },
+        {
+          "label": "D",
+          "text": "农业类",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "C"
+      ],
+      "candidate_answer_contents": [
+        "贸易、服务类"
+      ],
+      "selected_answer": [],
+      "selection_status": "尚未选择",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "teacher_comment": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "物理第1页（文章首页，印刷页码范围起于88页），一、高职院校大学生的创业特点，第三点“创业项目科技含量低”",
+          "quote": "第三，创业项目科技含量低。从自身知识结构上讲，高职学生不具备科技前沿的知识储备。广州科技贸易职业学院、番禺职业技术学院、广州铁路职业技术学院等高职院校的大学生创新创业大赛及入驻创新创业孵化基地的60多个项目中显示，其中贸易、服务类的项目占比高达70%，大多数项目科技创新与技术含量低，容易创业。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "科技类",
+          "assessment": "不支持",
+          "reason": "原文最高占比的直接候选为贸易、服务类70%；同时指出大多数项目科技创新与技术含量低。"
+        },
+        {
+          "label": "B",
+          "text": "制造类",
+          "assessment": "不支持",
+          "reason": "原文未将制造类列为最高；贸易、服务类已占70%。"
+        },
+        {
+          "label": "C",
+          "text": "贸易、服务类",
+          "assessment": "支持",
+          "reason": "原文明示贸易、服务类占比高达70%；在该调研项目类别语境下，超过半数支持其占比最高。"
+        },
+        {
+          "label": "D",
+          "text": "农业类",
+          "assessment": "不支持",
+          "reason": "原文未将农业类列为最高；贸易、服务类已占70%。"
+        }
+      ],
+      "verification_status": "已核对课程附件对应原文及当前选项内容；仅在本节高职院校调研/论述语境下支持候选答案；平台答案及评分未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.2-M1",
+      "type": "多选题",
+      "number": 1,
+      "stem": "大学生创业的主要特点是（ ）。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "创业热情高",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "新一代信息技术应用能力强",
+          "selected": false
+        },
+        {
+          "label": "C",
+          "text": "创业项目科技含量低",
+          "selected": false
+        },
+        {
+          "label": "D",
+          "text": "学生团队成员单一",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "candidate_answer_contents": [
+        "创业热情高",
+        "新一代信息技术应用能力强",
+        "创业项目科技含量低",
+        "学生团队成员单一"
+      ],
+      "selected_answer": [],
+      "selection_status": "尚未选择",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "teacher_comment": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "物理第1页，一、高职院校大学生的创业特点，第一点",
+          "quote": "第一，创业热情高。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        },
+        {
+          "source_id": "E1",
+          "locator": "物理第1页，一、高职院校大学生的创业特点，第二点",
+          "quote": "第二，新一代信息技术应用能力强。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        },
+        {
+          "source_id": "E1",
+          "locator": "物理第1页（文章首页，印刷页码范围起于88页），一、高职院校大学生的创业特点，第三点“创业项目科技含量低”",
+          "quote": "第三，创业项目科技含量低。从自身知识结构上讲，高职学生不具备科技前沿的知识储备。广州科技贸易职业学院、番禺职业技术学院、广州铁路职业技术学院等高职院校的大学生创新创业大赛及入驻创新创业孵化基地的60多个项目中显示，其中贸易、服务类的项目占比高达70%，大多数项目科技创新与技术含量低，容易创业。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        },
+        {
+          "source_id": "E1",
+          "locator": "物理第2页（印刷第89页），一、高职院校大学生的创业特点，第五点",
+          "quote": "第五，学生团队成员单一。学生创业团队大多数，以自己熟悉的同学为主，团队成员层次简单，以单一专业为主，知识结构扁平化。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "创业热情高",
+          "assessment": "支持",
+          "reason": "物理第1页第一点逐字列出“创业热情高”。"
+        },
+        {
+          "label": "B",
+          "text": "新一代信息技术应用能力强",
+          "assessment": "支持",
+          "reason": "物理第1页第二点逐字列出“新一代信息技术应用能力强”。"
+        },
+        {
+          "label": "C",
+          "text": "创业项目科技含量低",
+          "assessment": "支持",
+          "reason": "物理第1页第三点逐字列出“创业项目科技含量低”。"
+        },
+        {
+          "label": "D",
+          "text": "学生团队成员单一",
+          "assessment": "支持",
+          "reason": "物理第2页第五点逐字列出“学生团队成员单一”。"
+        }
+      ],
+      "verification_status": "已核对课程附件对应原文及当前选项内容；仅在本节高职院校调研/论述语境下支持候选答案；平台答案及评分未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.2-M2",
+      "type": "多选题",
+      "number": 2,
+      "stem": "近年来各高等院校高度重视大学生创新创业教育工作的表现是（ ）。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "每年定期举办大学生创新创业竞赛",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "建立创新创业孵化基地",
+          "selected": false
+        },
+        {
+          "label": "C",
+          "text": "建立众创空间",
+          "selected": false
+        },
+        {
+          "label": "D",
+          "text": "对优秀的项目进行资金与场地支持",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "candidate_answer_contents": [
+        "每年定期举办大学生创新创业竞赛",
+        "建立创新创业孵化基地",
+        "建立众创空间",
+        "对优秀的项目进行资金与场地支持"
+      ],
+      "selected_answer": [],
+      "selection_status": "尚未选择",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "teacher_comment": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "物理第1页，一、高职院校大学生的创业特点，开头段",
+          "quote": "近年来各高职院校高度重视大学生创新创业教育工作，每年定期举办大学生创新创业竞赛，建立创新创业孵化基地、众创空间等大学生创新创业实践场所，开展大学生创业项目孵化与服务，对优秀的项目进行资金与场地支持，从而激发与促进更多高职大学生的创业热情。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "每年定期举办大学生创新创业竞赛",
+          "assessment": "支持",
+          "reason": "原文明确包含“每年定期举办大学生创新创业竞赛”。"
+        },
+        {
+          "label": "B",
+          "text": "建立创新创业孵化基地",
+          "assessment": "支持",
+          "reason": "原文明确包含“建立创新创业孵化基地”。"
+        },
+        {
+          "label": "C",
+          "text": "建立众创空间",
+          "assessment": "支持",
+          "reason": "原文在实践场所中列出“众创空间”，与建立动作对应。"
+        },
+        {
+          "label": "D",
+          "text": "对优秀的项目进行资金与场地支持",
+          "assessment": "支持",
+          "reason": "原文明确包含“对优秀的项目进行资金与场地支持”。"
+        }
+      ],
+      "verification_status": "已核对课程附件对应原文及当前选项内容；仅在本节高职院校调研/论述语境下支持候选答案；平台答案及评分未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.2-T1",
+      "type": "判断题",
+      "number": 1,
+      "stem": "大学生创业团队成员能力都很高。（ ）",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "B"
+      ],
+      "candidate_answer_contents": [
+        "错误"
+      ],
+      "selected_answer": [],
+      "selection_status": "尚未选择",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "teacher_comment": null,
+      "awarded_score": null,
+      "max_score": 10,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "物理第2页（印刷第89页），一、高职院校大学生的创业特点，第六点",
+          "quote": "第六，团队成员能力有待提高。学生创业团队缺乏整体运作机制，团队协作能力弱，往往是团队中只有负责人能力较强，而其他成员只是跟随。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "正确",
+          "assessment": "不支持",
+          "reason": "题干“都很高”是全称判断；原文明确指出能力有待提高，往往只有负责人能力较强，其他成员只是跟随。"
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "assessment": "支持",
+          "reason": "原文否定团队成员能力均很高，故本题整句应判错误。"
+        }
+      ],
+      "verification_status": "已核对课程附件对应原文及当前选项内容；仅在本节高职院校调研/论述语境下支持候选答案；平台答案及评分未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.2-T2",
+      "type": "判断题",
+      "number": 2,
+      "stem": "大学生只有掌握好专业技能，才能更好地发挥自身优势去赢得创业机会。（ ）",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "A"
+      ],
+      "candidate_answer_contents": [
+        "正确"
+      ],
+      "selected_answer": [],
+      "selection_status": "尚未选择",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "teacher_comment": null,
+      "awarded_score": null,
+      "max_score": 10,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "物理第2页（印刷第89页），三、“云时代”背景下高职院校大学生创业对策，第一点“加强专业技能训练”",
+          "quote": "第一，加强专业技能训练。高职院校以培养具有创新精神、创业素养的高素质技术型人才为目标，学生技能的培养贯穿高职教育的全过程，高职院校的学生只有掌握好专业技能，才能更好地发挥自身优势去赢得创业机会。",
+          "quote_normalization": "合并原PDF换行与排版空白；保留数字和原意"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "正确",
+          "assessment": "支持",
+          "reason": "原文“高职院校的学生只有掌握好专业技能，才能更好地发挥自身优势去赢得创业机会”与题干核心论述一致；按本课程高职学生语境判正确。"
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "assessment": "不支持",
+          "reason": "原文直接支持整句的“只有……才能……”表述，未见否定依据。"
+        }
+      ],
+      "verification_status": "已核对课程附件对应原文及当前选项内容；仅在本节高职院校调研/论述语境下支持候选答案；平台答案及评分未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    }
+  ],
+  "notes": [
+    "候选答案、实际选中、实际提交及平台答案分开记录；平台字段为空表示未见，不是零分。",
+    "本次没有浏览器操作或提交；所有选项selected=false是未选择状态。",
+    "本记录为待提交证据，不属于quiz_platform，不进入已提交成绩索引。",
+    "题干称大学生/各高等院校，附件具体写高职院校；作答依据本课程对应调研语境，保留范围差别。"
+  ]
+}

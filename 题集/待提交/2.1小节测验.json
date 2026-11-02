@@ -1,0 +1,520 @@
+{
+  "schema_version": 1,
+  "source_kind": "quiz_pending_verification",
+  "course": "云计算行业与创新创业对接范式",
+  "course_id": "2026373645",
+  "chapter": "第2章 云计算创业项目选择和市场分析",
+  "section": "2.1",
+  "section_title": "云计算创业前景如何",
+  "title": "2.1小节测验",
+  "recorded_at": "2026-09-26",
+  "source_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/841659297/270026882/533226267/section",
+  "frame_url": "https://www.uooc.net.cn/exam/28917256",
+  "record_basis": "题干、选项、分值及选中状态据页面转录；非原始DOM快照。",
+  "submission_status": "not_submitted",
+  "submitted_at": null,
+  "score": null,
+  "max_score": 100,
+  "platform_answers_available": false,
+  "included_in_submitted_index": false,
+  "pending_action": "成功提交后再读取平台成绩、答案与解析，更新正式题集。",
+  "knowledge_base_search": {
+    "checked": "正文/KB030.md、KB031.md、KB032.md、KB033.md及全库可检索文本",
+    "result": "未定位本组六题的直接课程原文；外部历史原始分析与题干逐项对应。检索未命中不代表课件或视频必然无相关内容。"
+  },
+  "sources": [
+    {
+      "id": "E1",
+      "kind": "external_original_analysis",
+      "title": "2019年中国云计算行业市场现状及发展前景分析 5G技术或将推动市场渗透率快速提升",
+      "publisher": "前瞻产业研究院",
+      "published_at": "2019-06-10 14:47:49",
+      "url": "https://bg.qianzhan.com/trends/detail/506/190610-d45e7f7f.html",
+      "accessed_on": "2026-09-26",
+      "status": "已打开原发布机构网页核查；外部原始分析，不是课程附件或平台答案",
+      "local_fulltext_path": null
+    },
+    {
+      "id": "E2",
+      "kind": "external_government_republication",
+      "title": "工信部出台《云计算发展三年行动计划（2017-2019年）》",
+      "publisher": "湖北省经济和信息化厅",
+      "credited_source": "中国电子报",
+      "published_at": "2017-04-11 10:07",
+      "url": "https://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/nsjg/rjhxxfwyc/xydt/201912/t20191226_1796035.shtml",
+      "accessed_on": "2026-09-26",
+      "status": "已打开政府部门网页核查；页面注明中国电子报来源，非工信部原始通知全文",
+      "local_fulltext_path": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q2.1-S1",
+      "type": "单选题",
+      "number": 1,
+      "stem": "预测2019年中国云计算行业市场规模将突破千亿元，并预测到了2021中国云计算行业市场规模将增长至（ ）左右。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "1958亿元",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "1885亿元",
+          "selected": false
+        },
+        {
+          "label": "C",
+          "text": "1858亿元",
+          "selected": true
+        },
+        {
+          "label": "D",
+          "text": "1580亿元",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "C"
+      ],
+      "candidate_answer_contents": [
+        "1858亿元"
+      ],
+      "selected_answer": [
+        "C"
+      ],
+      "selection_status": "已逐项确认当前选中状态",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "未来中国云计算行业市场规模将接近1900亿，首段；网页提取行159",
+          "short_excerpt": "1858",
+          "paraphrase": "文章将该数值明确列为2021年的中国云计算行业市场预测规模，时间和统计对象与题干一致。"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "1958亿元",
+          "assessment": "不支持",
+          "reason": "该数值与对应2021年预测数值不同。"
+        },
+        {
+          "label": "B",
+          "text": "1885亿元",
+          "assessment": "不支持",
+          "reason": "该数值与对应2021年预测数值不同。"
+        },
+        {
+          "label": "C",
+          "text": "1858亿元",
+          "assessment": "支持",
+          "reason": "与同一年度、同一市场口径的预测数值一致。"
+        },
+        {
+          "label": "D",
+          "text": "1580亿元",
+          "assessment": "不支持",
+          "reason": "该数值与对应2021年预测数值不同。"
+        }
+      ],
+      "verification_status": "外部资料直接对应；未取得本题课程附件原文定位；平台结果未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.1-S2",
+      "type": "单选题",
+      "number": 2,
+      "stem": "在我国云计算服务的细分行业中，成为主要战场的是（ ）。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "医疗云",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "农业云",
+          "selected": false
+        },
+        {
+          "label": "C",
+          "text": "金融云",
+          "selected": false
+        },
+        {
+          "label": "D",
+          "text": "政务云",
+          "selected": true
+        }
+      ],
+      "candidate_answer": [
+        "D"
+      ],
+      "candidate_answer_contents": [
+        "政务云"
+      ],
+      "selected_answer": [
+        "D"
+      ],
+      "selection_status": "已逐项确认当前选中状态",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "云服务行业发展前景分析 → 3、三大云服务领域快速发展，首段；网页提取行218",
+          "short_excerpt": "政务云",
+          "paraphrase": "文章只将此行业称为题干所指的主要竞争领域，并分别叙述金融、医疗领域的发展情况。"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "医疗云",
+          "assessment": "不支持",
+          "reason": "文中将医疗云描述为稳步推进，未指定为本题所问主要战场。"
+        },
+        {
+          "label": "B",
+          "text": "农业云",
+          "assessment": "证据不足，不选",
+          "reason": "对应段落未将农业云列入主要战场。"
+        },
+        {
+          "label": "C",
+          "text": "金融云",
+          "assessment": "不支持",
+          "reason": "文中强调金融云竞争激烈，但主要战场所对应的行业是政务云。"
+        },
+        {
+          "label": "D",
+          "text": "政务云",
+          "assessment": "支持",
+          "reason": "与题干主要战场的明确指向一致。"
+        }
+      ],
+      "verification_status": "外部资料直接对应；未取得本题课程附件原文定位；平台结果未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.1-M1",
+      "type": "多选题",
+      "number": 1,
+      "stem": "云服务产业在基础设施方面越来越向（ ）方向发展，给整体行业发展提供了有力的支撑。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "规模化",
+          "selected": true
+        },
+        {
+          "label": "B",
+          "text": "集约化",
+          "selected": true
+        },
+        {
+          "label": "C",
+          "text": "新技术",
+          "selected": false
+        },
+        {
+          "label": "D",
+          "text": "高负载",
+          "selected": true
+        }
+      ],
+      "candidate_answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "candidate_answer_contents": [
+        "规模化",
+        "集约化",
+        "高负载"
+      ],
+      "selected_answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selection_status": "已逐项确认当前选中状态",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "云服务行业发展前景分析 → 2、国内云生态体系不断强化，第二段；网页提取行214",
+          "short_excerpt": "规模化、集约化、高负载",
+          "paraphrase": "该段首项列出基础设施发展的三个方向，与A、B、D逐项对应。"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "规模化",
+          "assessment": "支持",
+          "reason": "属于对应句明确列出的方向。"
+        },
+        {
+          "label": "B",
+          "text": "集约化",
+          "assessment": "支持",
+          "reason": "属于对应句明确列出的方向。"
+        },
+        {
+          "label": "C",
+          "text": "新技术",
+          "assessment": "证据不足，不选",
+          "reason": "新技术未列入本题对应句的基础设施发展方向，不能凭一般常识补选。"
+        },
+        {
+          "label": "D",
+          "text": "高负载",
+          "assessment": "支持",
+          "reason": "属于对应句明确列出的方向。"
+        }
+      ],
+      "verification_status": "外部资料直接对应；未取得本题课程附件原文定位；平台结果未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.1-M2",
+      "type": "多选题",
+      "number": 2,
+      "stem": "5G应用中广泛使用云服务作为的基础是（ ）。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "数据流转",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "行业转型",
+          "selected": false
+        },
+        {
+          "label": "C",
+          "text": "数据计算",
+          "selected": true
+        },
+        {
+          "label": "D",
+          "text": "存储",
+          "selected": true
+        }
+      ],
+      "candidate_answer": [
+        "C",
+        "D"
+      ],
+      "candidate_answer_contents": [
+        "数据计算",
+        "存储"
+      ],
+      "selected_answer": [
+        "C",
+        "D"
+      ],
+      "selection_status": "已逐项确认当前选中状态",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "awarded_score": null,
+      "max_score": 20,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "云服务行业发展前景分析 → 4、5G技术或将推动云服务加快渗透，首段；网页提取行223",
+          "short_excerpt": "数据计算、存储",
+          "paraphrase": "文章明确指出5G应用依赖云服务承担上述两种底层功能，与C、D对应。"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "数据流转",
+          "assessment": "证据不足，不选",
+          "reason": "对应句未列举数据流转。"
+        },
+        {
+          "label": "B",
+          "text": "行业转型",
+          "assessment": "证据不足，不选",
+          "reason": "行业转型并非对应句列出的底层基础功能。"
+        },
+        {
+          "label": "C",
+          "text": "数据计算",
+          "assessment": "支持",
+          "reason": "与对应句明确列举的功能一致。"
+        },
+        {
+          "label": "D",
+          "text": "存储",
+          "assessment": "支持",
+          "reason": "与对应句明确列举的功能一致。"
+        }
+      ],
+      "verification_status": "外部资料直接对应；未取得本题课程附件原文定位；平台结果未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.1-T1",
+      "type": "判断题",
+      "number": 1,
+      "stem": "医疗领域，在国家政策的引领下，国内首批健康医疗大数据应用及产业园建设国家试点，已形成了较为完善的医疗大数据发展体系。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确",
+          "selected": true
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "selected": false
+        }
+      ],
+      "candidate_answer": [
+        "A"
+      ],
+      "candidate_answer_contents": [
+        "正确"
+      ],
+      "selected_answer": [
+        "A"
+      ],
+      "selection_status": "已逐项确认当前选中状态",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "awarded_score": null,
+      "max_score": 10,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "云服务行业发展前景分析 → 3、三大云服务领域快速发展，第二段医疗领域部分；网页提取行219",
+          "short_excerpt": null,
+          "paraphrase": "已逐项核对政策背景、国内首批试点、医疗大数据及产业园、发展体系成熟程度；原始分析包含题干完整同句，未见否定词或术语替换。"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "正确",
+          "assessment": "支持",
+          "reason": "整句与2019年外部原始分析对应表述一致。"
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "assessment": "不支持",
+          "reason": "整句核对未发现与该历史材料相冲突的内容。"
+        }
+      ],
+      "verification_status": "外部资料直接对应；未取得本题课程附件原文定位；平台结果未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    },
+    {
+      "id": "Q2.1-T2",
+      "type": "判断题",
+      "number": 2,
+      "stem": "计划在2019年，我国云计算产业规模突破4300亿元，突破一批核心关键技术，云计算服务能力达到高速发展水平。",
+      "stem_status": "完整题干据页面转录",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确",
+          "selected": false
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "selected": true
+        }
+      ],
+      "candidate_answer": [
+        "B"
+      ],
+      "candidate_answer_contents": [
+        "错误"
+      ],
+      "selected_answer": [
+        "B"
+      ],
+      "selection_status": "已逐项确认当前选中状态",
+      "submitted_answer": null,
+      "platform_answer": null,
+      "platform_explanation": null,
+      "awarded_score": null,
+      "max_score": 10,
+      "evidence": [
+        {
+          "source_id": "E1",
+          "locator": "云服务行业发展前景分析 → 相关政策支持，第二段；网页提取行206",
+          "short_excerpt": "国际先进水平",
+          "paraphrase": "年份、产业规模数字、关键技术目标对应；题干末项把服务能力的目标等级改成了发展速度描述，与材料目标不符。"
+        },
+        {
+          "source_id": "E2",
+          "locator": "正文第二段，行动计划发展目标；网页提取行53",
+          "short_excerpt": null,
+          "paraphrase": "政府部门网页所引行动计划同样以国际比较层次界定服务能力目标；其产业规模措辞为达到4300亿元，前瞻页使用突破，两者分别保留。"
+        }
+      ],
+      "option_review": [
+        {
+          "label": "A",
+          "text": "正确",
+          "assessment": "不支持",
+          "reason": "服务能力的目标等级被题干替换，整句不能判真。"
+        },
+        {
+          "label": "B",
+          "text": "错误",
+          "assessment": "支持",
+          "reason": "存在明确术语差别，需判整句错误；不能因年份、金额相符而忽略末项。"
+        }
+      ],
+      "verification_status": "外部资料直接对应；未取得本题课程附件原文定位；平台结果未见",
+      "submission_status": "未提交",
+      "platform_feedback": "未提交，平台答案、解析和得分均未见",
+      "conflict": null
+    }
+  ],
+  "notes": [
+    "候选答案、选中答案与平台公布答案严格分开；所有平台结果字段为空，不表示零分。",
+    "网页提取行号只是本次抓取定位，不是原始文档页码；同时保留章节标题与段落定位。",
+    "本记录不加入已提交题集索引。"
+  ]
+}
