@@ -135,10 +135,10 @@ def md_blocks(path):
         start = match.end()
         end = matches[idx + 1].start() if idx + 1 < len(matches) else len(content)
         text = content[start:end].strip()
-        pages.append({"page": number, "status": "extracted", "extractor": "markdown_ocr"})
+        pages.append({"page": number, "status": "extracted", "extractor": "multimodal_markdown"})
         if text:
             blocks.append(block(text, f"第 {number} 页", page=number, text_status="extracted"))
-    return blocks, pages, ["由原大体积幻灯片 PDF 经高精度 OCR 与逐页视觉校对转换为 Markdown。"]
+    return blocks, pages, ["由原大体积幻灯片 PDF 经模型多模态逐页识别与核对转换为 Markdown。"]
 
 
 def converted_blocks(root, conversion, source_hash):

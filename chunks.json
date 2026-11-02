@@ -1892,129 +1892,129 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "resolved_url": "http://src.source5.uooconline.com/course1314/document/%E4%B8%8B%E4%B8%80%E4%BB%A3%E4%BA%91%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B1%95%E6%9C%9B%E5%92%8C%E4%BA%A7%E5%93%81%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83.pdf",
       "download_status": "ok",
-      "size_bytes": 5922,
-      "sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "size_bytes": 6032,
+      "sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "ui_section": "第3节 云计算创业方向如何选择",
       "chapter": "第2章 云计算创业项目选择和市场分析",
       "section_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/841659297/1420986072",
       "actual_format": "MD",
       "format_warning": "原站大体积幻灯片 PDF 已高精度 OCR 并人工逐页校对转换为 Markdown",
       "source_kind": "course_material",
-      "actual_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
       "extraction_status": "extracted",
       "warnings": [
-        "由原大体积幻灯片 PDF 经高精度 OCR 与逐页视觉校对转换为 Markdown。"
+        "由原大体积幻灯片 PDF 经模型多模态逐页识别与核对转换为 Markdown。"
       ],
+      "actual_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "pages": [
         {
           "page": 1,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 2,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 3,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 4,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 5,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 6,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 7,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 8,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 9,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 10,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 11,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 12,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 13,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 14,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 15,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 16,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 17,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 18,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 19,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 20,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 21,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 22,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         }
       ],
       "chunk_count": 22,
@@ -6626,119 +6626,119 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "resolved_url": "http://src.source5.uooconline.com/course1314/document/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9C%A8%E7%BA%BF%E5%BA%94%E7%94%A8%E7%9A%84Serverless%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B.pdf",
       "download_status": "ok",
-      "size_bytes": 8266,
-      "sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "size_bytes": 8345,
+      "sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "ui_section": "第3节 云计算创业方向如何选择",
       "chapter": "第2章 云计算创业项目选择和市场分析",
       "section_url": "https://www.uooc.net.cn/home/learn/index#/2026373645/841659297/1420986072",
       "actual_format": "MD",
       "format_warning": "原站大体积幻灯片 PDF 已高精度 OCR 并人工逐页校对转换为 Markdown",
       "source_kind": "course_material",
-      "actual_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
       "extraction_status": "extracted",
       "warnings": [
-        "由原大体积幻灯片 PDF 经高精度 OCR 与逐页视觉校对转换为 Markdown。"
+        "由原大体积幻灯片 PDF 经模型多模态逐页识别与核对转换为 Markdown。"
       ],
+      "actual_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "pages": [
         {
           "page": 1,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 2,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 3,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 4,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 5,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 6,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 7,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 8,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 9,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 10,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 11,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 12,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 13,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 14,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 15,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 16,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 17,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 18,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 19,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         },
         {
           "page": 20,
           "status": "extracted",
-          "extractor": "markdown_ocr"
+          "extractor": "multimodal_markdown"
         }
       ],
       "chunk_count": 20,
@@ -31251,7 +31251,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "下一代云数据分析展望 + 产品重磅发布\n离哲 - 阿里云数据库产品事业部总经理\n缪长风 - 阿里云数据库产品事业部高级专家",
       "location": "第 1 页",
@@ -31271,7 +31271,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "目录\n1. 市场趋势\n2. 技术趋势\n3. 实践展望\n4. 重磅发布",
       "location": "第 2 页",
@@ -31291,7 +31291,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "市场趋势：数据规模爆炸性增长\n- 40ZB：2020 年全球数据规模\n- 430%：2025年 vs 2020 全球数据规模\n- from IDC",
       "location": "第 3 页",
@@ -31311,7 +31311,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "市场趋势：数据在加速上云\n- 49%：2025 年 数据存储 云上规模\n- 75%：2023 年 数据库 云上规模\n- from IDC , Gartner",
       "location": "第 4 页",
@@ -31331,7 +31331,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "市场趋势：数据业务实时化占比大幅提高\n- 30%：2025 年 实时数据占比\n- 50%：2022 年 新业务将会采用实时分析比例\n- from IDC , Gartner",
       "location": "第 5 页",
@@ -31351,7 +31351,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "市场趋势：非结构化数据增速极快\n- 80%：非结构化数据占比\n- 55%：非结构化数据年增速\n- from IDC , Gartner",
       "location": "第 6 页",
@@ -31371,7 +31371,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "市场趋势：云边一体化加速分析和创新\n- 51%：2025 IoT 数据占比\n- 75%：2025 IoT数据 边缘处理占比\n- from IDC , Gartner",
       "location": "第 7 页",
@@ -31391,9 +31391,9 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
-      "text": "分析市场 进入 “Fast Data” 时代\n- Big Data（VOLUME, VARIETY, VERACITY, VELOCITY, VALUE）\n- Fast Data（VOLUME, INTELLIGENSE VARITY, REALTIME DATA, REALTIME COMPUTE, CLOUD EDGE INTEGRATEDd, VALUE）",
+      "text": "分析市场 进入 “Fast Data” 时代\n- Big Data（VOLUME, VARIETY, VERACITY, VELOCITY, VALUE）\n- Fast Data（VOLUME, INTELLIGENCE VARIETY [原片拼写 INTELLIGENSE VARITY], REALTIME DATA, REALTIME COMPUTE, CLOUD EDGE INTEGRATED [原片拼写 CLOUD EDGE INTEGRATEDd], VALUE）",
       "location": "第 8 页",
       "page": 8,
       "text_status": "extracted"
@@ -31411,7 +31411,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "技术趋势 - 阿里巴巴 在线分析 发展演进历程\n- ~2008 Oracle RAC：具备 Realtime, Consistency, Agility, Accuracy；局限 High concurrency, Volume（商业 单机 → 商业 分布式）\n- 2009 Greenplum：具备 Volume(~PB), Agility, Accuracy；局限 High concurrency, High availability (leadernode), Realtime Write（商业 → 开源）\n- 2011 HBase / MySQL Sharding / Hadoop：具备 Volume(~PB), High concurrency, Low Latency, Accuracy；局限 Consistency (offline/online), Agility (Cube)\n- 2012 AnalyticDB 1.0：具备 Volume(~PB), High concurrency, Agility, Low Latency, Accuracy, High availability；局限 Consistency (offline/online), Realtime Write, ACID（开源 → 自研）\n- 2017 TSDB\n- 2019 AnalyticDB 3.0：具备 Volume(~100PB), High concurrency, Agility, Low Latency, High availability, Accuracy, Realtime RW, Cloud-Native；局限 ACID",
       "location": "第 9 页",
@@ -31431,7 +31431,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "技术趋势：单机 → 分布式\n- Single Node：Network → DB → Disk\n- Shared Everything：Network → DB / DB / DB → Shared Storage（Scale Up）\n- Shared Nothing：Network → DB+Disk / DB+Disk / DB+Disk / DB+Disk（Scale Out）",
       "location": "第 10 页",
@@ -31451,7 +31451,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "技术趋势：OLTP + OLAP → HTAP\n- OLTP（Native Engine：Shared Nothing / Shared Everything） + OLAP（External Engine / Native Engine） → HTAP",
       "location": "第 11 页",
@@ -31471,7 +31471,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "技术趋势：On-Premise → Cloud Native\n- Master / Sync / Slave → RW / RO + Distributed Storage → L / F / F + Distributed Storage（Row Store + Columnar Store）\n- 核心特性：极速恢复和复制、跨AZ、Large-Scale",
       "location": "第 12 页",
@@ -31491,7 +31491,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "技术趋势：结构化数据 → 非结构化融合分析\n- AnalyticDB：文本模型、人脸模型、语音模型；结构化&非结构化 融合存储；分布式计算、融合分析、高效索引、硬件加速\n- SQL + X：结构化数据分析、ML/DL 集成、文本分析、图像分析、视频分析、声纹比对",
       "location": "第 13 页",
@@ -31511,7 +31511,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "技术趋势：云边一体化\n- 边缘侧：设备 → 设备接入 → 消息路由 → 云代理 → 边缘存储分析（Smart Proxy） → 多维数据分析 → 本地数据看板\n- 云端协同：边缘管理中心（部署运维、设备管理、IoT公有云平台）；云端存储分析 → 智能化分析 → 云端 IoT Studio",
       "location": "第 14 页",
@@ -31531,9 +31531,9 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
-      "text": "技术趋势：传统硬件 → 软硬件一体化\n- RDMA（RoCE）\n- Open-Channel SSD（APPS → File system / FTL / Open Channel 10 Library → NVMe Driver → Open Channel Firmware / SSD Controller）\n- NVM 3DX Point\n- GPU/FPGA（NVIDIA TESLA / XILINX）",
+      "text": "技术趋势：传统硬件 → 软硬件一体化\n- RDMA（RoCE）\n- Open-Channel SSD（APPS → File system / FTL / Open Channel IO Library → NVMe Driver → Open Channel Firmware / SSD Controller）\n- NVM 3DX Point\n- GPU/FPGA（NVIDIA TESLA / XILINX）",
       "location": "第 15 页",
       "page": 15,
       "text_status": "extracted"
@@ -31551,7 +31551,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "技术趋势：Serverless Storage+Compute\n- 数据源 → Serverless Computing（计算） → 分析",
       "location": "第 16 页",
@@ -31571,7 +31571,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "产品重磅发布",
       "location": "第 17 页",
@@ -31591,7 +31591,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "AnalyticDB for MySQL 3.0重磅升级\n- 云原生架构：基于容器技术，轻量化；用户集群隔离独享；全球部署\n- 性能大幅提升：写入性能提升50%；查询性能提升40%；TPC-DS性能全球领先\n- MySQL更兼容：支持最多256个数据库；更好的MySQL协议兼容性；全面兼容MySQL权限体系\n- 读写强一致：基于Raft协议保证强一致；数据写入立即可见；ETL的ACID完备能力\n- 弹性扩缩：存储从GB->PB扩展；节点弹性扩缩；弹性计算节点（即将推出）\n- 数据更可靠：数据三副本可靠性保障；任意时间点恢复；只读实例、同城容灾",
       "location": "第 18 页",
@@ -31611,7 +31611,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "AnalyticDB for PG 推出Greenplum 6.0版\n- HTAP混合负载：更高并发、更快写入和更新性能\n- 更多新特效：复制表、Disk Quota、zstd\n- 更简单易用：实时同步、在线扩容、一致性hash等",
       "location": "第 19 页",
@@ -31631,7 +31631,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "Data Lake Analytics 推出一键建仓\n- 架构：RDS → Data Lake Analytics → 分析型数据库 / 对象存储OSS\n- 优势：更简单易用 · 更低的成本 · 更稳定高效",
       "location": "第 20 页",
@@ -31651,7 +31651,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "时序数据库-InfluxDB版正式发布\n- 数据高可靠：99.9999999%\n- 更完善的生态：Prometheus、Grafana无缝对接\n- 更稳定的内核：引擎深度优化、HA版本",
       "location": "第 21 页",
@@ -31671,7 +31671,7 @@
       "local_path": "原始资料/KB047__下一代云数据分析展望和产品重磅发布.md",
       "extraction_path": "",
       "body_path": "正文/KB047.md",
-      "source_sha256": "78880f730dbf5e913a4070269ebd77f76f0f9e19b189a5f270694c1560051f05",
+      "source_sha256": "1772b48163ce3697a26618fc5eb5bef1a20f2db031fcc0920454b7021c3ccd3d",
       "converted_pdf_path": null,
       "text": "THANKS !",
       "location": "第 22 页",
@@ -54147,7 +54147,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "阿里巴巴集团 · 云栖大会（APSARA CONFERENCE）\n阿里巴巴在线应用的 Serverless 架构演进\n许晓斌（阿里云智能高级技术专家）",
       "location": "第 1 页",
@@ -54167,7 +54167,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "Contents 目录\n1. 阿里巴巴在线应用的特点\n2. 业界 Serverless 的发展现状\n3. 应用极速启动技术",
       "location": "第 2 页",
@@ -54187,7 +54187,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "1 阿里巴巴在线应用的特点",
       "location": "第 3 页",
@@ -54207,7 +54207,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "在线业务对响应时间敏感\n- 一次用户请求产生 80+ 次分布式调用（含调用 TAIR、同区域/单元内 HSF、TDDL 等分布式调用链路）\n- 网站的响应时间直接影响转化率：\n  - 2.4 seconds：1.9% conversion rate\n  - 3.3 seconds：1.5% conversion rate\n  - 4.2 seconds：<1% conversion rate\n  - 5.7+ seconds：<0.6% conversion rate",
       "location": "第 4 页",
@@ -54227,7 +54227,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "应用启动时间长\n- 应用 A：优化前 1000 s → 优化后 350 s\n  - 启动耗时环节：Tomcat、Diamond、JDK、HSF、TMF、其他（TDDL, Pandora）\n- 复用优化手段\n- 应用 B：优化前 600 s → 优化后 350 s（Bean 加载等启动占用时间与优化节省时间对比）",
       "location": "第 5 页",
@@ -54247,7 +54247,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "语言的分布\n- 阿里巴巴：Java 是绝对主流（JAVA、其他）\n- AWS Lambda：NodeJS 是主流，Java 占比不到 5%（NodeJS、Python、Java、Go、其它）\n- 数据来源：https://serverless.com/blog/serverless-by-the-numbers-2018-data-report/",
       "location": "第 6 页",
@@ -54267,7 +54267,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "2 业界 Serverless 的发展现状",
       "location": "第 7 页",
@@ -54287,7 +54287,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "Serverless 行业发展回顾\n- 2018年7月，Google 发布了 Knative。Knative 是一个基于 Kubernetes 的开源 Serverless 框架，具备构建容器、流量调配、弹性伸缩、零实例、函数事件等能力。Knative 背后主要有 Google, Redhat, Pivotal 和 IBM 等公司参与。值得留意的是，Knative 的社区发展非常迅速，截止到 2019年4月，已经有超过50家公司参与，超过400贡献者。\n- 2018年12月，AWS 发布了 Firecracker。Firecracker 是一个开源的虚拟化技术，面向基于函数的服务，创建和管控安全的、多租户的容器。Firecracker 的目标是把传统虚拟机安全性和隔离型，和容器的诉求和资源效率结合起来。类似的产品还有 Kata Container 和 gVisor。\n- 2019年1月，InfoQ 发布架构和设计趋势报告。报告指出，「虽然当前 serverless 这个词可能还比较模糊，但是它驱动了行业更多地关注事件驱动的系统设计，以及更多地自动化底层操作系统的关注点。」\n- 2019年2月，Jonas Bonér（Akka的创始人）指出，目前 serverless 的编程模型还是限制在无状态的函数上，即 FaaS，这限制了 serverless 能支持的用例：https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/。\n- 2019年2月，UC Berkeley 发布了 Serverless Computing 报告。报告阐述了 Serverless Computing 的动力，分析了当前 Serverless 技术的优劣，以及这一领域目前遇到的问题和机会。\n- 2019年3月，Red Hat 发布了 Quarkus。Quarkus 是一个开源的，Kubernetes 原生的 Java 框架，适配 GraalVM 和 OpenJDK HotSpot。较之于传统的 Java 应用，使用 Quarkus 编写的 Java 应用程序在启动时间和内存消耗上有较大的改进。\n- 2019年3月，Mozilla 宣布了 WASI，WebAssembly 的系统接口。WASI 的目标是让 WebAssembly 代码运行在所有设备上、机器和操作系统上。WebAssembly 原来主要是为 web 客户端设计的，而现在 Mozilla 想将其扩展到其他地方，例如数据中心的服务端和 IoT 设备。\n- 2019年3月，Pivotal 发布了 Spring Cloud Function 2.1.0.M1。Spring Cloud Function 是一层对于 Serverless 平台的抽象，基于 Spring Boot，推崇面向函数的编程模型。Spring Cloud Function 目前支持 AWS Lambda，微软 Azure 和 Apache OpenWhisk。\n- 2019年4月，Google 发布了 Cloud Run。Google Cloud 是一个托管式的计算平台，用户可以部署无状态的容器，容器可以接受 http 请求，按实际请求次数收费。Cloud Run 能够管理好基础设施，包括自动弹性和缩容到零实例。Cloud Run 基于开源 Knative 标准构建，用户的容器运行在安全容器 Gvisor 中。\n- 2019年5月，Oracle 发布 GraalVM 19.0。GraalVM 是一个通用的应用虚拟机，除了支持 JVM 语言外，还支持 JS, Python, Ruby, R 等其他语言，它可以通过 AOT 技术将应用编译成本地镜像，以提升启动时间、降低内存消耗。\n- 2019年5月，Spring 核心开发 Juergen Hoeller 分享了 Spring 5.2 & 5.3 的 Roadmap。其中包含了 Spring 5.2 的启动时间优化，以及 Spring 5.3 对 GraalVM Native Images 的兼容。",
       "location": "第 8 页",
@@ -54307,7 +54307,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "Serverless 技术的分层\n- Runtime & Framework：GraalVM / Spring Cloud Function\n- DevOps：Knative\n- Resource：Firecracker",
       "location": "第 9 页",
@@ -54327,9 +54327,9 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
-      "text": "Serverless 行业发展特点\n- FaaS：FaaS 还是 Serverless 的主流形式，但是限制非常多\n- 开源：以 Knative 为首的 Serverless 开源组件得到了社区支持\n- Java：Java 还不是 Serverless 的一等公民；GraalVM 正致力于降低 Java 应用冷启动速度\n- 安全：传统容器技术不足以满足安全要求；轻量级安全沙箱技术发展迅速",
+      "text": "Serverless 行业发展特点\n- FaaS：FaaS 还是 Serverless 的主流形式，但是限制非常多\n- 开源：以 Knative 为首的 Serverless 开源组件得到了社区的大力支持\n- Java：Java 还不是 Serverless 的一等公民（原片作“还是不是”）；GraalVM 正致力于降低 Java 应用冷启动速度\n- 安全：传统容器技术不足以满足安全要求；轻量级安全沙箱技术发展迅速",
       "location": "第 10 页",
       "page": 10,
       "text_status": "extracted"
@@ -54347,7 +54347,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "Serverless 挑战对比\n\n| 维度 | Java 支持 | 应用启动时间 | 安全隔离要求 | FaaS | 应用大小 |\n|---|---|---|---|---|---|\n| 业界 | 二等公民 | 不解决 | 高 | 主流 | 小/中 |\n| 阿里巴巴内部 | 核心 | 必须解决 | 中 | 非主流 | 大/巨大 |",
       "location": "第 11 页",
@@ -54367,7 +54367,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "3 应用极速启动技术",
       "location": "第 12 页",
@@ -54387,7 +54387,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "Serverless vs Book 模式\n- 计算资源与时间关系：\n  - Book模式：保有时间 1 day\n  - Serverless模式：保有时间 1 minute\n- 示例：\n  - 应用A = A1 + B2 = 180（其中 A1=80，A2=40）\n  - 应用B = A2 + B1 = 110（其中 B1=70，B2=100）\n- 峰值计算公式：\n  - $All_t = A_t + B_t + C_t + \\dots + N_t$\n  - $Peak(A) = \\max(A_1, A_2, A_3, \\dots, A_t)$\n  - $Serverless = \\max(All_1, All_2, All_3, \\dots, All_t)$\n  - $Book = Peak(A) + Peak(B) + \\dots + Peak(N)$",
       "location": "第 13 页",
@@ -54407,7 +54407,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "Serverless 核心挑战\n如何保证在需要的时候在极短的时间（毫秒级）内分配好资源、启动应用、保证服务可用",
       "location": "第 14 页",
@@ -54427,7 +54427,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "多级弹性能力（弹性幅度 5x / 10x / 50x / 250x 与弹性时间 10ms / 10s / 10min）\n- L1 弹性：速度最快的弹性方式，通常成本更高，例如在物理机上垂直弹性，10ms 内完成，在物理机快速创建出一个计算单元\n- L2 弹性：速度仅次于L1，采用磁盘快照方式，在 10秒 内完成，可以完成水平弹性能力\n- L3 弹性：完全的冷启动，预计需要 10分钟到30分钟",
       "location": "第 15 页",
@@ -54447,7 +54447,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "1:1 vs 1:N（源码 → 镜像（10min - 30min） → 快照 → 运行时（5s - 10s））\n- 1:N：成本低，通用型差（单份快照对应多个运行时）\n- 1:1：成本高，通用型好（每份快照对应单个运行时）",
       "location": "第 16 页",
@@ -54467,7 +54467,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "快照技术关注点\n- 使用低成本的存储换取应用启动速度，技术的资源瓶颈变成了 I/O\n- 应用的 Stateless 非常关键，可以使用 1:N 方案，成本更低",
       "location": "第 17 页",
@@ -54487,7 +54487,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "整体架构\n- 核心组件链路：CD System → Control Plane / CSE Fn（FaaS 能力） → Load Balancer / Activator / Scaler / CSE Core（弹性能力） → Zizz CRD / LR CRD / ForkR CRD（极速启动能力） → Kubernetes\n- 1. 在和内部的各种中间件（如负载均衡）和持续交付系统的前提下\n- 2. 沉淀的能力都尽量靠齐社区标准（如 Kubernetes CRD，Knative 架构）",
       "location": "第 18 页",
@@ -54507,7 +54507,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "落地情况\n- Application 50+：传统应用，无须改动代码\n- Function 500+：FaaS类场景，开发效率提升\n- BU 10+：丰富的场景覆盖",
       "location": "第 19 页",
@@ -54527,7 +54527,7 @@
       "local_path": "原始资料/KB103__阿里巴巴在线应用的Serverless架构演进.md",
       "extraction_path": "",
       "body_path": "正文/KB103.md",
-      "source_sha256": "43254873ed21af3ff1d791925442f7d3b47f92b7af1c87e3db80dfba14a8dbce",
+      "source_sha256": "f2e524d8589cd958298f30661487c9a5b1fcfdc448aeb6a26e832978b0709757",
       "converted_pdf_path": null,
       "text": "THANK YOU!",
       "location": "第 20 页",
