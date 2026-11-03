@@ -4,7 +4,7 @@
   "rendered_from": "派生资料/CAJ转换/KB076__云计算环境中利润最大化的最优服务定价与多服务器系统配置研究 邵高原.converted.pdf",
   "pages": [
     {
-      "confidence": 0.5797468393663817,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -797,15 +797,13 @@
           "text": "56"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 68,
-      "text": "华东师范大学硕士学位论文\n第五章 实验设置与结果分析\n700\n650\n19600\n分 550-\n类500\n位450-\n～400-\n-Profit\n350-\n300-\n润250-\n商\n200\n营 150\n运100-\n50\n0.4\nidle-speed 模式\n0.5\n0.6\n0.7\n0.8\n0.9\n1.1 1.2\n服务器速度s\n（a） idle-speed 模式\nconstant-speed 模式\n1.3\n1.5\n1.6\n• A2=12.9\n1=15.97\nA2=13.9\n入2=14.9\n•1-16.9\n1.7\n1.8\n700，\n650\n15 600\n分550\n美500\n令450\n400\n350\n300\n250\n200\n150\n100\n50\n0.4\n•★=12.9\n-A2=15.9\n12=13.9\n入2=14.97\n入っ=16.9\n1.8\n0.5\n0.6 0.7 0.8\n0.9\n1\n1.2\n服务器速度s\n（b） constant-speed 模式\n图 5-6 两种模式下利润与服务器运行速度的关系\n当服务请求到达率入z=12.9,13.9,14.9,15.9,16.9，为使利润最大，idle-speed\n模式下的最优服务器运行速度分别是s=0.7642,0.9435,1.1044,1.1293,1.2838；\n而对于 constant-speed 模式，其使得利润最大钓最优服务器运行速度分别是S=\n0.7254,0.8934,1.0715,1.1136,1.2548。\n这种最优的服务器运行速度其物理意义同样比较明确。当运行速度s较小，\n将会导致服务器工作负载p→1，从而导致到达的服务请求来不及处理而将等待\n较长时间。因此云服务运营商不得不为其低服务质量付出代价，由于惩罚费用增\n高，从而导致其利润降低。随着工作服务器数量s的增加，队列中等待的服务请\n求很快被处理，用户的服务请求以高质量完成，对云服务运营商的惩罚降低，从\n而利润增高。然而随着s的持续增加，利润并没有如期增加，这是因为速度增\n56",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "华东师范大学硕士学位论文  第五章 实验设置与结果分析\n\n### 图 5-6 两种模式下利润与服务器运行速度的关系\n- **(a) idle-speed 模式**：横轴为服务器速度 $s$（$0.4 \\sim 1.8$），纵轴为运营商利润 $\\text{Profit}$（单位：美分/s，$0 \\sim 700$），展示 $\\lambda_2 = 12.9, 15.9, 13.9, 14.9, 16.9$ 五条曲线。\n- **(b) constant-speed 模式**：横轴为服务器速度 $s$（$0.4 \\sim 1.8$），纵轴为运营商利润 $\\text{Profit}$（单位：美分/s，$0 \\sim 700$），展示 $\\lambda_2 = 12.9, 15.9, 13.9, 14.9, 16.9$ 五条曲线。\n\n当服务请求到达率 $\\lambda_2 = 12.9, 13.9, 14.9, 15.9, 16.9$，为使利润最大，idle-speed 模式下的最优服务器运行速度分别是 $s = 0.7642, 0.9435, 1.1044, 1.1293, 1.2838$；而对于 constant-speed 模式，其使得利润最大的最优服务器运行速度分别是 $s = 0.7254, 0.8934, 1.0715, 1.1136, 1.2548$。\n这种最优的服务器运行速度其物理意义同样比较明确。当运行速度 $s$ 较小，将会导致服务器工作负载 $\\rho \\to 1$，从而导致到达的服务请求来不及处理而将等待较长时间。因此云服务运营商不得不为其低服务质量付出代价，由于惩罚费用增高，从而导致其利润降低。随着工作服务器运行速度 $s$ 的增加，队列中等待的服务请求很快被处理，用户的服务请求以高质量完成，对云服务运营商的惩罚降低，从而利润增高。然而随着 $s$ 的持续增加，利润并没有如期增加，这是因为速度的增\n\n56",
+      "warnings": []
     },
     {
-      "confidence": 0.46785715009484974,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -1088,15 +1086,13 @@
           "text": "65"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 77,
-      "text": "华东师范大学硕士学位论文\n附录\nA-2 证明公式（2.10）中的负二项分布满足性质2\n证明：由于任何累计分布函数都具有性质lim.F（w）≤1，且公式（2.10）約期\n望为Eolml =aRt（1-F（0）。显然，Uirgo Elrala】=0.\n因此，由公式（2.10）中负二项分布所表示用户需求分布满足性质2。\nB算法1中相关定理的证明\nB-1定理1的证明\n考虑到［D;1在8上是非递减，定理1成立当且仅当：\nLDille=Uo-e = DY, ViEl.\n（B.1）\n我们分两种情况证明上式（B.1）成立：L，≥ max：｛CDmax +1）K3与Lく\nmax：（（Dmax +1）kio\na. 看Lo≥ max：（（Dmax +1）ki：\n根据公式（3.9）可得：U。=∞0；\n根据公式（3.8）可得：D= Dmax, Vi ET；\n根据公式（2.16）可得：LDille=U，-e = Dmax, Vi €l：\n因此，当L，≥ max：［（Dmax+1）k；｝时，定理1成立。\nb.若L。 < max：（（Dmax +1）KX：\n此时，有U。=minieof（D20 +2）n3：\n这种情况下，我们分如下步骤证明：\n1. 式子U，= minieel（D' +2）n｝，对于ViE@，有：\nU，≤（D+2）43ViE目，\n（B.2）\n将上式（B.2）带入公式（2.16），可得：\nIDille=U，-e ≤ Imax（min（DiD +1-e,Dmax），0）」，\n（B.3）\n65",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "华东师范大学硕士学位论文  附录\n\n### A-2 证明公式 (2.10) 中的负二项分布满足性质 2\n**证明**：由于任何累计分布函数都具有性质 $\\lim_{\\omega \\to \\infty} F(\\omega) \\le 1$，且公式 (2.10) 的期望为 $E_\\omega[m] = \\alpha \\beta t(1 - F(\\omega))$。显然，$\\lim_{\\omega \\to \\infty} \\omega E[m|\\omega] = 0$。\n因此，由公式 (2.10) 中负二项分布所表示的用户需求分布满足性质 2。\n\n## B 算法 1 中相关定理的证明\n\n### B-1 定理 1 的证明\n考虑到 $\\lfloor D_i \\rfloor$ 在 $\\theta$ 上是非递减，定理 1 成立当且仅当：\n\n$$\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} = D_i^{L_b}, \\quad \\forall i \\in I. \\quad (B.1)$$\n\n我们分两种情况证明上式 (B.1) 成立：$L_b \\ge \\max_i \\{(D_{\\max} + 1)\\kappa_i\\}$ 与 $L_b < \\max_i \\{(D_{\\max} + 1)\\kappa_i\\}$。\n\n**a. 若 $L_b \\ge \\max_i \\{(D_{\\max} + 1)\\kappa_i\\}$**：\n根据公式 (3.9) 可得：$U_b = \\infty$；\n根据公式 (3.8) 可得：$D_i^{L_b} = D_{\\max}, \\forall i \\in I$；\n根据公式 (2.16) 可得：$\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} = D_{\\max}, \\forall i \\in I$；\n因此，当 $L_b \\ge \\max_i \\{(D_{\\max} + 1)\\kappa_i\\}$ 时，定理 1 成立。\n\n**b. 若 $L_b < \\max_i \\{(D_{\\max} + 1)\\kappa_i\\}$**：\n此时，有 $U_b = \\min_{i \\in \\Theta} \\{(D_i^{L_b} + 2)\\kappa_i\\}$；\n这种情况下，我们分如下步骤证明：\n1. 式子 $U_b = \\min_{i \\in \\Theta} \\{(D_i^{L_b} + 2)\\kappa_i\\}$，对于 $\\forall i \\in \\Theta$，有：\n\n$$U_b \\le (D_i^{L_b} + 2)\\kappa_i, \\quad \\forall i \\in \\Theta, \\quad (B.2)$$\n\n将上式 (B.2) 带入公式 (2.16)，可得：\n\n$$\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} \\le \\lfloor \\max(\\min(D_i^{L_b} + 1 - \\epsilon, D_{\\max}), 0) \\rfloor, \\quad (B.3)$$\n\n65",
+      "warnings": []
     },
     {
-      "confidence": 0.40000000692182974,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -1409,12 +1405,10 @@
           "text": "（B.9）"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 78,
-      "text": "华东师范大学硕士学位论文\n合上式（B.3），可得：\n附录\n在公式（3.8）中，我们保证D‘。≥0。因此有min（Db+1-e）≥0，联\nIDillo=Up-e ≤ Lmin （Dro +1-e,Dmax）］\n≤p+1-e\n，\n（B.4）\n由公式（3.8）可知，D‘是整型数值，因此有：D‘=Dmax。此时，\n1Dp'o+1-4=%，\n（B.5）\n联合式子（B.4）与（B.5），可得：\nDille=Up-e≤Di,ViE日，\n（B.6）\n2.对于Vi@，根据公式（3.8）（3.10），可得：DY =Dmax， Vi¢@。根据\n公式（2.16），可得LDille-ip-e≤ Dmax,Vie1。因此：\nIDille-us-e ≤ Dib,Vit日，\n联合公式（B.6）（B.7），可得：\n（B.7）\nDDillo-up-e ≤ Di,ViET.\n3.不奶令\nj =arg rein （（Do +2）ni）\n由于当L。<max：（（Dmax +1）M.时，有U。=minieef（D~+2）n），因\n此可得：\nU。=（050+2）mg，\n所以对于jE⑧，根据公式（3.10）可得：L, E ［0， （Dmax +1）Kj）：\n如果L,E［0, 2m；），根据公式（3.8）可得：\nD'=0，\n66\n（.8）\n（B.9）",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "华东师范大学硕士学位论文  附录\n\n在公式 (3.8) 中，我们保证 $D_i^{L_b} \\ge 0$。因此有 $\\min(D_i^{L_b} + 1 - \\epsilon, D_{\\max}) \\ge 0$，联合上式 (B.3)，可得：\n\n$$\\begin{aligned}\n\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} &\\le \\lfloor \\min(D_i^{L_b} + 1 - \\epsilon, D_{\\max}) \\rfloor \\\\\n&\\le \\lfloor D_i^{L_b} + 1 - \\epsilon \\rfloor,\n\\end{aligned} \\quad (B.4)$$\n\n由公式 (3.8) 可知，$D_i^{L_b}$ 是整型数值，因此有：\n\n$$\\lfloor D_i^{L_b} + 1 - \\epsilon \\rfloor = D_i^{L_b}, \\quad (B.5)$$\n\n联合式子 (B.4) 与 (B.5)，可得：\n\n$$\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} \\le D_i^{L_b}, \\quad \\forall i \\in \\Theta, \\quad (B.6)$$\n\n2. 对于 $\\forall i \\notin \\Theta$，根据公式 (3.8)(3.10)，可得：$D_i^{L_b} = D_{\\max}, \\forall i \\notin \\Theta$。根据公式 (2.16)，可得 $\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} \\le D_{\\max}, \\forall i \\in I$。因此：\n\n$$\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} \\le D_i^{L_b}, \\quad \\forall i \\notin \\Theta, \\quad (B.7)$$\n\n联合公式 (B.6)(B.7)，可得：\n\n$$\\lfloor D_i \\rfloor|_{\\theta = U_b - \\epsilon} \\le D_i^{L_b}, \\quad \\forall i \\in I.$$\n\n3. 不妨令\n\n$$j = \\arg\\min_{i \\in \\Theta} \\{(D_i^{L_b} + 2)\\kappa_i\\}$$\n\n由于当 $L_b < \\max_i \\{(D_{\\max} + 1)\\kappa_i\\}$ 时，有 $U_b = \\min_{i \\in \\Theta} \\{(D_i^{L_b} + 2)\\kappa_i\\}$，因此可得：\n\n$$U_b = (D_j^{L_b} + 2)\\kappa_j, \\quad (B.8)$$\n\n所以对于 $j \\in \\Theta$，根据公式 (3.10) 可得：$L_b \\in [0, (D_{\\max} + 1)\\kappa_j)$；\n如果 $L_b \\in [0, 2\\kappa_j)$，根据公式 (3.8) 可得：\n\n$$D_j^{L_b} = 0, \\quad (B.9)$$\n\n66",
+      "warnings": []
     }
   ]
 }

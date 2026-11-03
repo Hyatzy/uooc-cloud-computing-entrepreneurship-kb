@@ -3,7 +3,7 @@
   "source_sha256": "ffb52d378708621c51dccdbaaf09dd72202cd774eadfccefb93d59d86c25cc4c",
   "pages": [
     {
-      "confidence": 0.6740259760385984,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -776,12 +776,10 @@
           "text": "《〈〈责任编辑：左永君 zuoyongjun@mbcom.cn"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 1,
-      "text": "电信运营商\n云计算盈利模式研究\n柯行斌 宋媛媛\n广东省电信规划设计院有限公司\n【摘要】云计算是继PC、互联网后的第三次信息技术革命，文章在介绍云计算服务的概念以及电信运营商引入云计算必\n要性的基础上，对电信运营商的各种云计算服务的盈利模式进行详细的分析研究，提出面向个人用户和面向企业用户\n业务盈利模式。\n【关键词】电信运营商 云计算 盈利模式\n1引言\n中小企业对于成本最为敏感，而它们对IT系统有着庞\n大的需求；在本地计算时代，IT系统是奢侈品，庞大的业\n务需求被高昂的成本压制了；一旦云计算得以发展，IT系\n统昀门檻大幅降低，中小企业昀需求就会呈现显著昀扩散\n效应。目前全球云计算已经由概念期进入导入期，受政\n策、行业标准、市场需求和技术等多重因素的推动，国内\n云计算市场将在未来十年发生爆发式增长。\n而近年来，电信运营商最传统的业务——语音业务\n的增长已经达到了天花板，应用\n更为广阔的数据业务成为其新\n软件即服务\nSaas\n盈利增长点。laaS云计算是投资\n门槛极高、对运营要求极高、回\n平台即服务\nPaas\n报稳定的ICT业务，非常适合电\n信运营商参与，云计算将是继3G\n无线接入、智能宽带等业务之外\n基础设施即服务\nTaas\n又一重量级运营商数据业务。\n因此，云计算的盈利模式将成为\n物理资源\n运营商关注的问题。\n云计算层次体系\n2 云计算服务\n云计算是一种IT资源的交付和使用模式，指通过网络\n（包括互联网internet和企业内部网intranet）以按需、易\n扩展方式获得所需的硬件、平台、软件及服务等资源。\n提供资源的网络称为“云”，其计算能力通常是由分布式\n的大规模集群和服务虚拟化软件搭建。\n云计算服务可以分为软件即服务（Saas）、平合即\n服务（Paas）、基础设施即服务（laas）三种类型，如图\n1所示：\n分布式应用程序、SOAP、 Https、Weh 2.0\nPaaS API\nGoogle: GFS、\nBigTable、MapReduce、\nChubhy, BORG\nVirtualization\nHadoop: HDFS、\nWBase、Map-Reduce\nVMware、Xen、\nVirtual Box、PowerVM、\nAmazon AMl...\n计算机\n存储器网络设备\nGoogle Docs\nZoho Ofice\nSalesforce.com: CRM、 ERP\nMicroseft Live\nGoogle: App Engine、\nSalesforce.com: force.com\nIBM: blue cloud\n开源项目：AppDrop、10Gen\nAmazon S3/EC2\nMicrosoft: SkyDrive\n1BM: biue cloud\n开源项目：Enomalism、 Euclyptus\nData Center\n典型应用\n收稿日期：2012-04-07\n46／番動通信\n2012年第13期\n主要技术\n图1云计算服务体系\n《〈〈责任编辑：左永君 zuoyongjun@mbcom.cn",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "运营之道\n# 电信运营商的云计算盈利模式研究\n柯行斌  宋媛媛\n广东省电信规划设计院有限公司\n\n【摘要】云计算是继 PC、互联网后的第三次信息技术革命，文章在介绍云计算服务的概念以及电信运营商引入云计算必要性的基础上，对电信运营商的各种云计算服务的盈利模式进行详细的分析研究，提出面向个人用户和面向企业用户的业务盈利模式。\n【关键词】电信运营商  云计算  盈利模式\n\n## 1 引言\n中小企业对于成本最为敏感，而它们对 IT 系统有着庞大的需求；在本地计算时代，IT 系统是奢侈品，庞大的业务需求被高昂的成本压制了；一旦云计算得以发展，IT 系统的门槛大幅降低，中小企业的需求就会呈现显著的扩散效应。目前全球云计算已经由概念期进入导入期，受政策、行业标准、市场需求和技术等多重因素的推动，国内云计算市场将在未来十年发生爆发式增长。\n而近年来，电信运营商最传统的业务——语音业务的增长已经达到了天花板，应用更为广阔的数据业务成为其新的盈利增长点。IaaS 云计算是投资门槛极高、对运营要求极高、回报稳定的 ICT 业务，非常适合电信运营商参与，云计算将是继 3G 无线接入、智能宽带等业务之外又一重量级的运营商数据业务。因此，云计算的盈利模式将成为运营商关注的问题。\n\n## 2 云计算服务\n云计算是一种 IT 资源的交付和使用模式，指通过网络（包括互联网 internet 和企业内部网 intranet）以按需、易扩展的方式获得所需的硬件、平台、软件及服务等资源。提供资源的网络称为“云”，其计算能力通常是由分布式的大规模集群和服务器虚拟化软件搭建。\n云计算服务可以分为软件即服务（SaaS）、平台即服务（PaaS）、基础设施即服务（IaaS）三种类型，如图 1 所示：\n\n### 图 1 云计算服务体系\n| 云计算层次体系 | 主要技术 | 典型应用 |\n| --- | --- | --- |\n| 软件即服务 SaaS | 分布式应用程序、SOAP、Https、Web 2.0 | Google Docs；Zoho Office；Salesforce.com: CRM、ERP；Microsoft Live |\n| 平台即服务 PaaS | PaaS API；Google: GFS、BigTable、MapReduce、Chubby、BORG；Hadoop: HDFS、HBase、Map-Reduce | Google: App Engine；Salesforce.com: force.com；IBM: blue cloud；开源项目：AppDrop、10Gen |\n| 基础设施即服务 IaaS | Virtualization：VMware、Xen、Virtual Box、PowerVM、Amazon AMI... | Amazon S3/EC2；Microsoft: SkyDrive；IBM: blue cloud；开源项目：Enomalism、Euclyptus |\n| 物理资源 | 计算机、存储器、网络设备 | Data Center |\n\n收稿日期：2012-04-07\n46 | 移动通信 2012年第13期  责任编辑：左永君 zuoyongjun@mbcom.cn",
+      "warnings": []
     }
   ]
 }

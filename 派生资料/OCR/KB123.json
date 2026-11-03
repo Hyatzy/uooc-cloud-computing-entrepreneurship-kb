@@ -3,7 +3,7 @@
   "source_sha256": "57ee63ecc15ee8546453d8fc5e8df4bfea067f8b6bea0b1f6ba9c3c64f5b0933",
   "pages": [
     {
-      "confidence": 0.7137931050925419,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -296,15 +296,13 @@
           "text": "分布式强一致数据库系统"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 4,
-      "text": "C2AMEa Group\nI APSARN\n阿里巴巴集团\n云栖大会\n灾难恢复能力国家标准等级\n等级3\nRPO/RTO天级别\n一般业务\n至少每天备份一次\n同机房主备+云上冷备\n等级4\nRPO/RTO 小时到天级别\n重要业务\n每天全备+增量\n同城主备+云端冷、热备\n等级5\nRPO 30分钟\nRTO 分钟-小时\n关键业务\n实时复制技术\n备份系统就绪或运行状态\n同城主备+云端热备\n等级6\nRPO 0分钟\nRTO 数分钟\n核心业务\n数据0丟失\n备份与生产处理能力一致\n分布式强一致数据库系统",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 灾难恢复能力国家标准等级\n- **等级 3（RPO/RTO 天级别）**：一般业务 | 至少每天备份一次 | 同机房主备 + 云上冷备\n- **等级 4（RPO/RTO 小时到天级别）**：重要业务 | 每天全备 + 增量 | 同城主备 + 云端冷、热备\n- **等级 5（RPO 30 分钟，RTO 分钟-小时）**：关键业务 | 实时复制技术 | 备份系统就绪或运行状态 | 同城主备 + 云端热备\n- **等级 6（RPO 0 分钟，RTO 数分钟）**：核心业务 | 数据 0 丢失 | 备份与生产处理能力一致 | 分布式强一致数据库系统",
+      "warnings": []
     },
     {
-      "confidence": 0.5294117717181935,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -477,15 +475,13 @@
           "text": "•实时可用"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 5,
-      "text": "E2.Alibaba Group\n阿里巴巴集团\nAPSARN\n云栖大会\n企业灾备建设的痛点\n投入大\n容量冗余\n•异地备份\n•人力物力\n可靠性\n•数据可靠\n• 存储可靠\n•数据安全\n可验证\n•恢复时长\n•恢复验证\n•实时可用",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 企业灾备建设的痛点\n- **投入大**：容量冗余、异地备份、人力物力\n- **可靠性**：数据可靠、存储可靠、数据安全\n- **可验证**：恢复时长、恢复验证、实时可用",
+      "warnings": []
     },
     {
-      "confidence": 0.7055555582046509,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -668,15 +664,13 @@
           "text": "全面数据加密体系"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 6,
-      "text": "ELAliaDa Roup\n阿里巴巴集团\nAPSARN\n云栖大会\n云时代数据库灾备的新契机\nC\n实时数据复制\n低成本灾备\n快速启用\n6\n安全可靠\n数据库日志解析同步技术\n恢复业务RPO/RTO可达秒级\n按需付费，同城异地\n云端快速恢复RDS\n云端备份数据查询DLA\n飞天盘古分布式高可靠\n全面数据加密体系",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 云时代数据库灾备的新契机\n- **实时数据复制**：数据库日志解析同步技术；恢复业务 RPO/RTO 可达秒级\n- **低成本灾备**：按需付费，同城异地\n- **快速启用**：云端快速恢复 RDS；云端备份数据查询 DLA\n- **安全可靠**：飞天盘古分布式高可靠；全面数据加密体系",
+      "warnings": []
     },
     {
-      "confidence": 0.7500000015685433,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -1059,15 +1053,13 @@
           "text": "云产品化"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 8,
-      "text": "E2 Alilaba Group\n阿里巴巴集团\nAPSARN\n云栖大会\n阿里巴巴数据库从灾备到多活的发展历程\n近距离验证\n可读可写\n场景摸索\n同城双活\n2013\n上万公里\n冲突解决策略\n网络传输优化\n中美同步\n2015\nDBS 数据库备份服务\nDTS 轻松构建异地多活\nDMS+ HDM 统一管理\n云产品赋能\n2017～\n2012\n异地冷备+热备\n数百公里\n备库可读\n异地缓存失效\n最大痛点：延时、成本\n2014\n异地双活\n上千公里\n完善配套\n容灾经验\n由近及远打造基础设施\n2016\n异地多活+分布式强一致\n多种数据源\n金融级场景\nPB级数据同步\n云产品化",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 阿里巴巴数据库从灾备到多活的发展历程\n- **2012（异地冷备+热备）**：数百公里、备库可读、异地缓存失效、最大痛点：延时、成本\n- **2013（同城双活）**：近距离验证、可读可写、场景摸索\n- **2014（异地双活）**：上千公里、完善配套、容灾经验、由近及远打造基础设施\n- **2015（中美同步）**：上万公里、冲突解决策略、网络传输优化\n- **2016（异地多活+分布式强一致）**：多种数据源、金融级场景、PB 级数据同步、云产品化\n- **2017~（云产品赋能）**：DBS 数据库备份服务、DTS 轻松构建异地多活、DMS + HDM 统一管理",
+      "warnings": []
     },
     {
-      "confidence": 0.6733333349227906,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -1370,15 +1362,13 @@
           "text": "阿里云"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 9,
-      "text": "F2 Alibaba Group\n阿里巴巴集团\nAPSARN\n云栖大会\n数据库备份DBS\n数据库备份Database Backup，它可以为\n多种环境的数据提供强有力的保护，包括\n企业数据中心、其他云厂商、混合云及公\n共云。\n数据库备份DTS\n数据传输服务（Data Transmission Service）\nDTS支持关系型数据库、NoSQL、大数据\n（OLAP）等数据源间的异构、异地数据实时\n传输。\n等级3~4：DBS实时备份到阿里云OSS\nSlave\nMaster\nosS\n等级5：DTS单向同步，异地灾备\nSlave\nMaster\nMaster\nSlave\n等级5：DTS双向同步，异地多活\nSlave\nMaster\n用户IDC、其他云厂商\nMaster\nSlave\n阿里云",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 数据库备份 DBS 与 数据传输服务 DTS\n- **数据库备份 DBS**：数据库备份 Database Backup，它可以为多种环境的数据提供强有力的保护，包括企业数据中心、其他云厂商、混合云及公共云。\n- **数据传输服务 DTS（页内小标题印作数据库备份 DTS）**：数据传输服务（Data Transmission Service）DTS 支持关系型数据库、NoSQL、大数据（OLAP）等数据源间的异构、异地数据实时传输。\n- **架构对比（用户 IDC、其他云厂商 ↔ 阿里云）**：\n  - **等级 3~4**：DBS 实时备份到阿里云 OSS（Slave / Master → OSS）\n  - **等级 5**：DTS 单向同步，异地灾备（Slave / Master → Master / Slave）\n  - **等级 5**：DTS 双向同步，异地多活（Slave / Master ↔ Master / Slave）",
+      "warnings": []
     },
     {
-      "confidence": 0.7480769249109122,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -1901,15 +1891,13 @@
           "text": "ElasticSearch"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 12,
-      "text": "E2 Alihaba Group\n阿里巴巴集团\nAPSARN\n云栖大会\n源端数据库\nMySQL®\nPostgreSQL\nOracle\nDB2\nsQLserver\nredis\nmongoDB\nAurora\n结构迁移\n全量迁移\n数据变更\nCDC\n数据传输服务DTS\n预检查\n全量抽取\n增量抽取\ng8 katka\n阿里云 DTS\n用户控制台\n调度服务\nETL\nDStore\n数据订阅 SDK\n数据实时订阅 API/HTTP/SQL\nMhiEdapp\nC搜索\nこ：流计算\nNuman 运维平台\nOpenAPI\nWriter\n数据校验\n自定义业务\n双11：大压力、低延时、长距离\n数据\n迁移\n数据同\n步\n目标数据库\nRDS\nPolarDB\nMongoDB\nRedis\nADB\nDRDS\nMaxcompute\n88 katka\nElasticSearch",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 数据传输服务 DTS（双 11：大压力、低延时、长距离）\n- **源端数据库**：MySQL、PostgreSQL、Oracle、DB2、SQLServer、redis、mongoDB、Aurora……\n- **源端接入（结构迁移 / 全量迁移 / 数据变更 CDC）→ 阿里云 DTS**：\n  - 管控与接口：用户控制台、OpenAPI、调度服务\n  - 核心引擎：预检查、全量抽取、增量抽取 → ETL ⇄ DStore → Writer、数据校验\n  - 订阅能力：DStore → 数据订阅 SDK → 数据实时订阅 API/HTTP/SQL → kafka、Hadoop、阿里云搜索、流计算、自定义业务\n- **阿里云 DTS →（数据迁移 / 数据同步）→ 目标数据库**：RDS、PolarDB、MongoDB、Redis、ADB、DRDS、MaxCompute、kafka、ElasticSearch\n- **底座支撑**：Numan 运维平台",
+      "warnings": []
     },
     {
-      "confidence": 0.5500000044703484,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -1992,15 +1980,13 @@
           "text": "03"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 16,
-      "text": "E2AlbERroup\n阿里巴巴集团\nAPSARN\n云一栖 大\n会\n阿里云一站式数据库容灾\n方案\n03",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 03 阿里云一站式数据库容灾方案",
+      "warnings": []
     },
     {
-      "confidence": 0.6555555595291985,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -2093,15 +2079,13 @@
           "text": "4、云存储的边际成本和技术普惠（EC、重删）"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 19,
-      "text": "E2.Alibaba Group\n阿里巴巴集团\nAPSARN\n云栖 大 会\n总结：基于云计算的容灾技术新趋势\n1、容灾副本在线化，可分析，可服务（SQL查询、多活）\n2、数据安全性得到产品级保障（异地异构、飞天存储、BYOK、DMS）\n3、分钟级乃至秒级RPO、RTO技术逐渐成熟\n4、云存储的边际成本和技术普惠（EC、重删）",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 总结：基于云计算的容灾技术新趋势\n1、容灾副本在线化，可分析，可服务（SQL 查询、多活）\n2、数据安全性得到产品级保障（异地异构、飞天存储、BYOK、DMS）\n3、分钟级乃至秒级 RPO、RTO 技术逐渐成熟\n4、云存储的边际成本和技术普惠（EC、重删）",
+      "warnings": []
     },
     {
-      "confidence": 0.6333333353201548,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -2164,15 +2148,13 @@
           "text": "04"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 20,
-      "text": "阿里巴巴集团\nAPSARN\n云栖大\n会\n容灾场景典型案例\n04",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 04 容灾场景典型案例",
+      "warnings": []
     },
     {
-      "confidence": 0.7853658548215541,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -2585,15 +2567,13 @@
           "text": "恢复目标数据库"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 21,
-      "text": "E2.Alilaba Group\n阿里巴巴集团\n某云\n应用系统\n拍品系统\n支付系统\n业务数据厍\n自建库\nAPSARN\n云\n栖大会\n用户系统\n关注系统\n自建库\n自建库\n案例1：微拍堂- DBS跨云备份\n阿里云\n数据库灾备系统\nOSS\n标准类型\nOSS\n低频访问\n云存储系统\nOSS\n归档类型\n微拍堂，业务中心部署在其他云厂商，\n通过DBS将核心系统的数据库备份到阿里云，\n有效保障数据安全性。\n数据备份\n数据归档\n跨云\n备份\n实时\n加密\n压缩\n定期恢复\n备份演练\n数据库备份DBS\n云备份系统\nRDS\n恢复目标数据库",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 案例 1：微拍堂 - DBS 跨云备份\n- **某云**：应用系统（拍品系统、用户系统、支付系统、关注系统）→ 业务数据库（自建库、自建库、自建库）\n- **跨云备份（实时、加密、压缩）→ 阿里云 数据库灾备系统**：\n  - 云备份系统（数据库备份 DBS）→ 数据备份 / 数据归档 → 云存储系统（OSS 标准类型、OSS 低频访问、OSS 归档类型）\n  - 云备份系统（数据库备份 DBS）→ 定期恢复 / 备份演练 → 恢复目标数据库（RDS）\n- **案例说明**：微拍堂，业务中心部署在其他云厂商，通过 DBS 将核心系统的数据库备份到阿里云，有效保障数据安全性。",
+      "warnings": []
     },
     {
-      "confidence": 0.7580645180517628,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -2906,15 +2886,13 @@
           "text": "APP"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 22,
-      "text": "E2.Alibaba Group\n阿里巴巴集团\nAPSARNN\n云\n栖\n大会\n案例2：某知名电商 -基于DTS的数据库热备\nDC\n其他云厂商\nDatabase\n双向同步\n保障两边数据实时同步\n数据传输服务\nDTS\nDatabase\n0009：\n某知名电商，业务中心在线下IDC，利用DTS及分布式数据库DRDS构建其核心系统的灾备中心。\n有效保障数据安全性及服务可持续性。\n阿里云\nUser\nUser\nOA\nERP\nOA\nERP\nApplication\nApplication\nCRM\nAPP\nCRM\nAPP",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 案例 2：某知名电商 - 基于 DTS 的数据库热备\n- **DC / 其他云厂商**：User ↔ Application（OA、ERP、CRM、APP…）↔ Database\n- **数据传输服务 DTS（双向同步，保障两边数据实时同步）**\n- **阿里云**：User ↔ Application（OA、ERP、CRM、APP…）↔ Database\n- **案例说明**：某知名电商，业务中心在线下 IDC，利用 DTS 及分布式数据库 DRDS 构建其核心系统的灾备中心。有效保障数据安全性及服务可持续性。",
+      "warnings": []
     },
     {
-      "confidence": 0.6863636401566592,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -3357,15 +3335,13 @@
           "text": "可一键切换至另一个同步机房。"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 23,
-      "text": "E2Alibaba Group\n阿里巴巴集团\nAPSARN\n云\n栖大会\n案例3：云上异地多活-UC\nSLB\nDNS\nRDS\nDRDS\nRDS\nNgiinx\nNginx\nService\nService\nRDS\nNginx\nService\nRDS\nSLB\n低RPO、低RTO、国标灾备等级5\n高可用、流量分摊、就近服务\n一健切安\n楽斯\nSLB\nDNS\nSLB\n数据传航DTS\n双向同步\nDRDS\nRDS\nNoint\nService\nNginx\nNginx\nService\nService\nRDS\nCRDS\nUC借助数据传输DTS双向同步能力，\n对华东和华南的数据库做了双向同步，\n解决跨城容灾及业务分流的问题。\n在某个机房受到不可抗力停服时，\n可一键切换至另一个同步机房。",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 案例 3：云上异地多活 - UC\n- **杭州机房**：DNS ↔ SLB / SLB → Nginx / Service 集群 → DRDS（RDS、RDS、RDS、RDS）\n- **深圳机房**：DNS ↔ SLB / SLB → Nginx / Service 集群 → DRDS（RDS、RDS、RDS、RDS）\n- **跨城协同**：杭州 ↔ 深圳 支持“一键切换”与“数据传输 DTS 双向同步”\n- **核心成效**：\n  - 低 RPO、低 RTO、国标灾备等级 5\n  - 高可用、流量分摊、就近服务\n  - UC 借助数据传输 DTS 双向同步能力，对华东和华南的数据库做了双向同步，解决跨城容灾及业务分流的问题。在某个机房受到不可抗力停服时，可一键切换至另一个同步机房。",
+      "warnings": []
     },
     {
-      "confidence": 0.7717948739345257,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -3758,15 +3734,13 @@
           "text": "解决游戏上线或活动期间的数据库稳定性保障及维护。"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 24,
-      "text": "FLAlibaba Group\n阿里巴巴集团\nAPSARN\n云\n栖大会\n案例4：混合云数据库统一管理\nDuiba Group\n兄吧集团\n国泰产险\nCathay Insurance\nApplication\n云数据库\n自名单\n混合云数据库管理HDM\n数据管理DMS\n库表列行权限控制\n敏感数据脱敏\n监控报警\nDDOS防护\n安全审计\n存储加密TDE\n性能诊断\nCTO 徐恒飞\n“兑吧集团是行业领先的运营SaaS服务和互动效果广告供应商。阿里云DMS企业版提供了\n一系列强大功能，包括专业数据访问功能，定制自由的安全规则，全面的操作日志审计，支持\nRDS和自建实例接入等等。其自动化的工单平台使我们的数据更安全，管理更高效，为兑吧\n集团提供了可靠数据保障。”\n“DMS企业版提供了安全、细致、灵活的数据库权限控制和审计功能，解决了研发人员直接访\n问数据库导致的数据泄露、权限混乱、误删除等安全风险，提高了公司数据安全等级。自动\n化的数据变更功能更是解决了人工变更导致的各种痛点，高效的降低人力了成本，向Devops\n迈进了一大步。一一国泰产险CTO马荣强”\n操作权限控制\n应用分组与集群管理\n访问安全SSL\n网络访问隔离\n数据库大盘\n紫花游戏\n紫龙借助HDM完成多个云服务商上数据库的统一管理。\n解决游戏上线或活动期间的数据库稳定性保障及维护。",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# 案例 4：混合云数据库统一管理\n- **架构流程**：\n  - Application / 数据管理 DMS（库表列行权限控制、敏感数据脱敏、操作权限控制、网络访问隔离）\n  - → 云数据库（白名单、DDOS 防护、存储加密 TDE、访问安全 SSL）\n  - → 混合云数据库管理 HDM（监控报警、安全审计、性能诊断、应用分组与集群管理、数据库大盘）\n- **客户证言与案例**：\n  - **Duiba Group 兑吧集团 CTO 徐恒飞**：“兑吧集团是行业领先的运营 SaaS 服务和互动效果广告供应商。阿里云的 DMS 企业版提供了一系列强大功能，包括专业数据访问功能，定制自由的安全规则，全面的操作日志审计，支持 RDS 和自建实例接入等等。其自动化的工单平台使我们的数据更安全，管理更高效，为兑吧集团提供了可靠的数据保障。”\n  - **国泰产险 Cathay Insurance CTO 马荣强**：“DMS 企业版提供了安全、细致、灵活的数据库权限控制和审计功能，解决了研发人员直接访问数据库导致的数据泄露、权限混乱、误删除等安全风险，提高了公司数据安全等级。自动化的数据变更功能更是解决了人工变更导致的各种痛点，高效的降低了人力成本，向 Devops 迈进了一大步。——国泰产险 CTO 马荣强”\n  - **紫龙游戏 ZLONGAME**：紫龙借助 HDM 完成多个云服务商上数据库的统一管理。解决游戏上线或活动期间的数据库稳定性保障及维护。",
+      "warnings": []
     },
     {
-      "confidence": 0.48000000715255736,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -3819,12 +3793,10 @@
           "text": "THANKS！"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 25,
-      "text": "E2.Alibaba Group\n阿里巴巴集团\nAPSARN\n云栖大会\nTHANKS！",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "Alibaba Group 阿里巴巴集团 | APSARA 云栖大会\n# THANKS!",
+      "warnings": []
     }
   ]
 }

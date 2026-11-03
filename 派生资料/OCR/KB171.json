@@ -3,7 +3,7 @@
   "source_sha256": "41d1b9e13e57c7313a23d35c0743ab95afbb302d349375f173404d45336c8f34",
   "pages": [
     {
-      "confidence": 0.45000000298023224,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -46,12 +46,10 @@
           "text": "（C）1994-2019 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 61,
-      "text": "为商业决策赋能\nEMPOWER BUSINESS DECISIONS\nResearch\n（C）1994-2019 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "为商业决策赋能\nEMPOWER BUSINESS DECISIONS\niResearch 艾瑞咨询\n(C)1994-2019 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net",
+      "warnings": []
     }
   ]
 }

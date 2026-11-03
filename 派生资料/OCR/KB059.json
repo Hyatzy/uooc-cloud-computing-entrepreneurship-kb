@@ -3,7 +3,7 @@
   "source_sha256": "1cabc2188c21d758b881f1566dbbe68c005f955dbdb5d40edc511d1b71df7037",
   "pages": [
     {
-      "confidence": 0.30000001192092896,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -46,15 +46,13 @@
           "text": "enki.net"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 7,
-      "text": "月三！\n（C）1994-2019盒\nRi rights reserved. http://www\nenki.net",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "[全页配图：创业与云计算办公场景插图，无正文文字]\n(C)1994-2019 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net",
+      "warnings": []
     },
     {
-      "confidence": 0.5,
+      "confidence": 1.0,
       "lines": [
         {
           "bbox": [
@@ -67,12 +65,10 @@
           "text": "（C100+-2019 China Academic Joumal Electronic Publishing House. All rights reserved. http://www.cnki.net"
         }
       ],
-      "method": "macos_vision",
+      "method": "multimodal_vision_verified",
       "page": 10,
-      "text": "（C100+-2019 China Academic Joumal Electronic Publishing House. All rights reserved. http://www.cnki.net",
-      "warnings": [
-        "OCR 自动识别；引用答案前须对照原页，尤其核对数字、术语和表格。"
-      ]
+      "text": "[全页配图：技术研发与创新创业团队场景插图，无正文文字]\n(C)1994-2019 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net",
+      "warnings": []
     }
   ]
 }
